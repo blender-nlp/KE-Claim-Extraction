@@ -1,4 +1,4 @@
-# COVID-19 Claim Radar: A Structured Claim Extraction and Tracking System
+# A Structured Claim Extraction and Tracking System
 
 ## Table of Contents
 =================
