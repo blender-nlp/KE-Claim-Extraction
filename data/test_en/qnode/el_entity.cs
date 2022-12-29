@@ -1968,418 +1968,418 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000472	canonical_mention	"Pravda TV"	L0C04958D:3383-3391	1.0
 :Entity_EDL_ENG_0000472	mention	"Pravda TV"	L0C04958D:3383-3391	1.0
 :Entity_EDL_ENG_0000472	link	Q16712574
-:Entity_EDL_ENG_0000473	type	VAL
-:Entity_EDL_ENG_0000473	canonical_mention	"1"	L0C04958F:11927-11927	1.0
-:Entity_EDL_ENG_0000473	mention	"1"	L0C04958F:11927-11927	1.0
-:Entity_EDL_ENG_0000473	link	Q18041400
-:Entity_EDL_ENG_0000474	type	Person
-:Entity_EDL_ENG_0000474	canonical_mention	"Robert F."	L0C04958F:12598-12606	1.0
-:Entity_EDL_ENG_0000474	mention	"Robert F."	L0C04958F:12598-12606	1.0
-:Entity_EDL_ENG_0000474	link	Q18154373
-:Entity_EDL_ENG_0000475	type	Facility
-:Entity_EDL_ENG_0000475	canonical_mention	"P4 laboratory"	L0C04958F:14450-14462	1.0
-:Entity_EDL_ENG_0000475	mention	"P4 laboratory"	L0C04958F:14450-14462	1.0
-:Entity_EDL_ENG_0000475	mention	"P4 laboratory"	L0C04958F:16169-16181	1.0
-:Entity_EDL_ENG_0000475	link	Q18396539
-:Entity_EDL_ENG_0000476	type	Person
-:Entity_EDL_ENG_0000476	canonical_mention	"Balram Bhargava"	L0C04D4NL:5180-5194	1.0
-:Entity_EDL_ENG_0000476	mention	"Balram Bhargava"	L0C04D4NL:5180-5194	1.0
-:Entity_EDL_ENG_0000476	mention	"previously"	L0C04D4NL:5233-5242	1.0
-:Entity_EDL_ENG_0000476	link	Q18421916
-:Entity_EDL_ENG_0000477	type	TTL
-:Entity_EDL_ENG_0000477	canonical_mention	"director"	L0C04958F:13953-13960	1.0
-:Entity_EDL_ENG_0000477	mention	"director"	L0C04958F:13953-13960	1.0
-:Entity_EDL_ENG_0000477	link	Q188628
-:Entity_EDL_ENG_0000478	type	TME
-:Entity_EDL_ENG_0000478	canonical_mention	"today"	L0C04958F:3718-3722	1.0
-:Entity_EDL_ENG_0000478	mention	"today"	L0C04958F:3718-3722	1.0
-:Entity_EDL_ENG_0000478	link	Q193168
-:Entity_EDL_ENG_0000479	type	Organization
-:Entity_EDL_ENG_0000479	canonical_mention	"bioRxiv"	L0C04958F:9668-9674	1.0
-:Entity_EDL_ENG_0000479	mention	"bioRxiv"	L0C04958F:9668-9674	1.0
-:Entity_EDL_ENG_0000479	mention	"bioRxiv"	L0C04958F:10223-10229	1.0
-:Entity_EDL_ENG_0000479	link	Q19835482
-:Entity_EDL_ENG_0000480	type	VAL
-:Entity_EDL_ENG_0000480	canonical_mention	"1"	L0C04D4NL:1987-1987	1.0
-:Entity_EDL_ENG_0000480	mention	"1"	L0C04D4NL:1987-1987	1.0
-:Entity_EDL_ENG_0000480	link	Q199
+:Entity_EDL_ENG_0000473	type	Organization
+:Entity_EDL_ENG_0000473	canonical_mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
+:Entity_EDL_ENG_0000473	mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
+:Entity_EDL_ENG_0000473	link	Q17476605
+:Entity_EDL_ENG_0000474	type	VAL
+:Entity_EDL_ENG_0000474	canonical_mention	"1"	L0C04958F:11927-11927	1.0
+:Entity_EDL_ENG_0000474	mention	"1"	L0C04958F:11927-11927	1.0
+:Entity_EDL_ENG_0000474	link	Q18041400
+:Entity_EDL_ENG_0000475	type	Person
+:Entity_EDL_ENG_0000475	canonical_mention	"Robert F."	L0C04958F:12598-12606	1.0
+:Entity_EDL_ENG_0000475	mention	"Robert F."	L0C04958F:12598-12606	1.0
+:Entity_EDL_ENG_0000475	link	Q18154373
+:Entity_EDL_ENG_0000476	type	Facility
+:Entity_EDL_ENG_0000476	canonical_mention	"P4 laboratory"	L0C04958F:14450-14462	1.0
+:Entity_EDL_ENG_0000476	mention	"P4 laboratory"	L0C04958F:14450-14462	1.0
+:Entity_EDL_ENG_0000476	mention	"P4 laboratory"	L0C04958F:16169-16181	1.0
+:Entity_EDL_ENG_0000476	link	Q18396539
+:Entity_EDL_ENG_0000477	type	Person
+:Entity_EDL_ENG_0000477	canonical_mention	"Balram Bhargava"	L0C04D4NL:5180-5194	1.0
+:Entity_EDL_ENG_0000477	mention	"Balram Bhargava"	L0C04D4NL:5180-5194	1.0
+:Entity_EDL_ENG_0000477	mention	"previously"	L0C04D4NL:5233-5242	1.0
+:Entity_EDL_ENG_0000477	link	Q18421916
+:Entity_EDL_ENG_0000478	type	TTL
+:Entity_EDL_ENG_0000478	canonical_mention	"director"	L0C04958F:13953-13960	1.0
+:Entity_EDL_ENG_0000478	mention	"director"	L0C04958F:13953-13960	1.0
+:Entity_EDL_ENG_0000478	link	Q188628
+:Entity_EDL_ENG_0000479	type	TME
+:Entity_EDL_ENG_0000479	canonical_mention	"today"	L0C04958F:3718-3722	1.0
+:Entity_EDL_ENG_0000479	mention	"today"	L0C04958F:3718-3722	1.0
+:Entity_EDL_ENG_0000479	link	Q193168
+:Entity_EDL_ENG_0000480	type	Organization
+:Entity_EDL_ENG_0000480	canonical_mention	"bioRxiv"	L0C04958F:9668-9674	1.0
+:Entity_EDL_ENG_0000480	mention	"bioRxiv"	L0C04958F:9668-9674	1.0
+:Entity_EDL_ENG_0000480	mention	"bioRxiv"	L0C04958F:10223-10229	1.0
+:Entity_EDL_ENG_0000480	link	Q19835482
 :Entity_EDL_ENG_0000481	type	VAL
-:Entity_EDL_ENG_0000481	canonical_mention	"two"	L0C04D4MS:3486-3488	1.0
-:Entity_EDL_ENG_0000481	mention	"two"	L0C04D4MS:3486-3488	1.0
-:Entity_EDL_ENG_0000481	canonical_mention	"2"	L0C04958F:12793-12793	1.0
-:Entity_EDL_ENG_0000481	mention	"2"	L0C04958F:12793-12793	1.0
-:Entity_EDL_ENG_0000481	link	Q200
-:Entity_EDL_ENG_0000482	type	Person
-:Entity_EDL_ENG_0000482	canonical_mention	"Vladimir Zhirinovsky"	L0C04958D:4470-4489	1.0
-:Entity_EDL_ENG_0000482	mention	"Vladimir Zhirinovsky"	L0C04958D:4470-4489	1.0
-:Entity_EDL_ENG_0000482	mention	"Vladimir Zhirinovsky"	L0C04958D:4953-4972	1.0
-:Entity_EDL_ENG_0000482	mention	"Zhirinovsky"	L0C04958D:4405-4415	1.0
-:Entity_EDL_ENG_0000482	mention	"Zhirinovsky"	L0C04958D:4847-4857	1.0
-:Entity_EDL_ENG_0000482	link	Q200015
-:Entity_EDL_ENG_0000483	type	Organization
-:Entity_EDL_ENG_0000483	canonical_mention	"College de France"	L0C04958F:14379-14395	1.0
-:Entity_EDL_ENG_0000483	mention	"College de France"	L0C04958F:14379-14395	1.0
-:Entity_EDL_ENG_0000483	link	Q202660
-:Entity_EDL_ENG_0000484	type	VAL
-:Entity_EDL_ENG_0000484	canonical_mention	"1.7%"	L0C04D4NL:5863-5866	1.0
-:Entity_EDL_ENG_0000484	mention	"1.7%"	L0C04D4NL:5863-5866	1.0
-:Entity_EDL_ENG_0000484	mention	"1.9%"	L0C04D4NL:5908-5911	1.0
-:Entity_EDL_ENG_0000484	link	Q202758
+:Entity_EDL_ENG_0000481	canonical_mention	"1"	L0C04D4NL:1987-1987	1.0
+:Entity_EDL_ENG_0000481	mention	"1"	L0C04D4NL:1987-1987	1.0
+:Entity_EDL_ENG_0000481	link	Q199
+:Entity_EDL_ENG_0000482	type	VAL
+:Entity_EDL_ENG_0000482	canonical_mention	"two"	L0C04D4MS:3486-3488	1.0
+:Entity_EDL_ENG_0000482	mention	"two"	L0C04D4MS:3486-3488	1.0
+:Entity_EDL_ENG_0000482	canonical_mention	"2"	L0C04958F:12793-12793	1.0
+:Entity_EDL_ENG_0000482	mention	"2"	L0C04958F:12793-12793	1.0
+:Entity_EDL_ENG_0000482	link	Q200
+:Entity_EDL_ENG_0000483	type	Person
+:Entity_EDL_ENG_0000483	canonical_mention	"Vladimir Zhirinovsky"	L0C04958D:4470-4489	1.0
+:Entity_EDL_ENG_0000483	mention	"Vladimir Zhirinovsky"	L0C04958D:4470-4489	1.0
+:Entity_EDL_ENG_0000483	mention	"Vladimir Zhirinovsky"	L0C04958D:4953-4972	1.0
+:Entity_EDL_ENG_0000483	mention	"Zhirinovsky"	L0C04958D:4405-4415	1.0
+:Entity_EDL_ENG_0000483	mention	"Zhirinovsky"	L0C04958D:4847-4857	1.0
+:Entity_EDL_ENG_0000483	link	Q200015
+:Entity_EDL_ENG_0000484	type	Organization
+:Entity_EDL_ENG_0000484	canonical_mention	"College de France"	L0C04958F:14379-14395	1.0
+:Entity_EDL_ENG_0000484	mention	"College de France"	L0C04958F:14379-14395	1.0
+:Entity_EDL_ENG_0000484	link	Q202660
 :Entity_EDL_ENG_0000485	type	VAL
-:Entity_EDL_ENG_0000485	canonical_mention	"5"	L0C04958F:6231-6231	1.0
-:Entity_EDL_ENG_0000485	mention	"5"	L0C04958F:6231-6231	1.0
-:Entity_EDL_ENG_0000485	link	Q203
+:Entity_EDL_ENG_0000485	canonical_mention	"1.7%"	L0C04D4NL:5863-5866	1.0
+:Entity_EDL_ENG_0000485	mention	"1.7%"	L0C04D4NL:5863-5866	1.0
+:Entity_EDL_ENG_0000485	mention	"1.9%"	L0C04D4NL:5908-5911	1.0
+:Entity_EDL_ENG_0000485	link	Q202758
 :Entity_EDL_ENG_0000486	type	VAL
-:Entity_EDL_ENG_0000486	canonical_mention	"zero"	L0C04958D:6016-6019	1.0
-:Entity_EDL_ENG_0000486	mention	"zero"	L0C04958D:6016-6019	1.0
-:Entity_EDL_ENG_0000486	link	Q204
-:Entity_EDL_ENG_0000487	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000487	canonical_mention	"Franco-Chinese"	L0C04958F:13798-13811	1.0
-:Entity_EDL_ENG_0000487	mention	"Franco-Chinese"	L0C04958F:13798-13811	1.0
-:Entity_EDL_ENG_0000487	mention	"Franco-Chinese"	L0C04958F:14667-14680	1.0
-:Entity_EDL_ENG_0000487	link	Q2061398
-:Entity_EDL_ENG_0000488	type	ORG
-:Entity_EDL_ENG_0000488	canonical_mention	"EUvsDisinfo"	L0C04958D:4228-4238	1.0
-:Entity_EDL_ENG_0000488	mention	"EUvsDisinfo"	L0C04958D:4228-4238	1.0
-:Entity_EDL_ENG_0000488	link	Q21583970
-:Entity_EDL_ENG_0000489	type	Organization
-:Entity_EDL_ENG_0000489	canonical_mention	"Senlis Criminal Court"	L0C04958F:6944-6964	1.0
-:Entity_EDL_ENG_0000489	mention	"Senlis Criminal Court"	L0C04958F:6944-6964	1.0
-:Entity_EDL_ENG_0000489	link	Q2159907
-:Entity_EDL_ENG_0000490	type	Person
-:Entity_EDL_ENG_0000490	canonical_mention	"Donald Trump"	L0C04D4NL:1232-1243	1.0
-:Entity_EDL_ENG_0000490	mention	"Donald Trump"	L0C04D4NL:1232-1243	1.0
-:Entity_EDL_ENG_0000490	link	Q22686
-:Entity_EDL_ENG_0000491	type	TME
-:Entity_EDL_ENG_0000491	canonical_mention	"2003"	L0C04958F:17326-17329	1.0
-:Entity_EDL_ENG_0000491	mention	"2003"	L0C04958F:17326-17329	1.0
-:Entity_EDL_ENG_0000491	link	Q23815990
+:Entity_EDL_ENG_0000486	canonical_mention	"5"	L0C04958F:6231-6231	1.0
+:Entity_EDL_ENG_0000486	mention	"5"	L0C04958F:6231-6231	1.0
+:Entity_EDL_ENG_0000486	link	Q203
+:Entity_EDL_ENG_0000487	type	VAL
+:Entity_EDL_ENG_0000487	canonical_mention	"zero"	L0C04958D:6016-6019	1.0
+:Entity_EDL_ENG_0000487	mention	"zero"	L0C04958D:6016-6019	1.0
+:Entity_EDL_ENG_0000487	link	Q204
+:Entity_EDL_ENG_0000488	type	GeopoliticalEntity
+:Entity_EDL_ENG_0000488	canonical_mention	"Franco-Chinese"	L0C04958F:13798-13811	1.0
+:Entity_EDL_ENG_0000488	mention	"Franco-Chinese"	L0C04958F:13798-13811	1.0
+:Entity_EDL_ENG_0000488	mention	"Franco-Chinese"	L0C04958F:14667-14680	1.0
+:Entity_EDL_ENG_0000488	link	Q2061398
+:Entity_EDL_ENG_0000489	type	ORG
+:Entity_EDL_ENG_0000489	canonical_mention	"EUvsDisinfo"	L0C04958D:4228-4238	1.0
+:Entity_EDL_ENG_0000489	mention	"EUvsDisinfo"	L0C04958D:4228-4238	1.0
+:Entity_EDL_ENG_0000489	link	Q21583970
+:Entity_EDL_ENG_0000490	type	Organization
+:Entity_EDL_ENG_0000490	canonical_mention	"Senlis Criminal Court"	L0C04958F:6944-6964	1.0
+:Entity_EDL_ENG_0000490	mention	"Senlis Criminal Court"	L0C04958F:6944-6964	1.0
+:Entity_EDL_ENG_0000490	link	Q2159907
+:Entity_EDL_ENG_0000491	type	Person
+:Entity_EDL_ENG_0000491	canonical_mention	"Donald Trump"	L0C04D4NL:1232-1243	1.0
+:Entity_EDL_ENG_0000491	mention	"Donald Trump"	L0C04D4NL:1232-1243	1.0
+:Entity_EDL_ENG_0000491	link	Q22686
 :Entity_EDL_ENG_0000492	type	TME
-:Entity_EDL_ENG_0000492	canonical_mention	"this September"	L0C04958F:6638-6651	1.0
-:Entity_EDL_ENG_0000492	mention	"this September"	L0C04958F:6638-6651	1.0
-:Entity_EDL_ENG_0000492	link	Q23994855
-:Entity_EDL_ENG_0000493	type	TTL
-:Entity_EDL_ENG_0000493	canonical_mention	"director"	L0C04D4NL:4927-4934	1.0
-:Entity_EDL_ENG_0000493	mention	"director"	L0C04D4NL:4927-4934	1.0
-:Entity_EDL_ENG_0000493	link	Q2526255
-:Entity_EDL_ENG_0000494	type	TME
-:Entity_EDL_ENG_0000494	canonical_mention	"22 May"	L0C04D4NL:2951-2956	1.0
-:Entity_EDL_ENG_0000494	mention	"22 May"	L0C04D4NL:2951-2956	1.0
-:Entity_EDL_ENG_0000494	link	Q2581
+:Entity_EDL_ENG_0000492	canonical_mention	"2003"	L0C04958F:17326-17329	1.0
+:Entity_EDL_ENG_0000492	mention	"2003"	L0C04958F:17326-17329	1.0
+:Entity_EDL_ENG_0000492	link	Q23815990
+:Entity_EDL_ENG_0000493	type	TME
+:Entity_EDL_ENG_0000493	canonical_mention	"this September"	L0C04958F:6638-6651	1.0
+:Entity_EDL_ENG_0000493	mention	"this September"	L0C04958F:6638-6651	1.0
+:Entity_EDL_ENG_0000493	link	Q23994855
+:Entity_EDL_ENG_0000494	type	TTL
+:Entity_EDL_ENG_0000494	canonical_mention	"director"	L0C04D4NL:4927-4934	1.0
+:Entity_EDL_ENG_0000494	mention	"director"	L0C04D4NL:4927-4934	1.0
+:Entity_EDL_ENG_0000494	link	Q2526255
 :Entity_EDL_ENG_0000495	type	TME
-:Entity_EDL_ENG_0000495	canonical_mention	"31 May 2"	L0C04D4NL:3728-3736	1.0
-:Entity_EDL_ENG_0000495	mention	"31 May 2"	L0C04D4NL:3728-3736	1.0
-:Entity_EDL_ENG_0000495	link	Q2591
+:Entity_EDL_ENG_0000495	canonical_mention	"22 May"	L0C04D4NL:2951-2956	1.0
+:Entity_EDL_ENG_0000495	mention	"22 May"	L0C04D4NL:2951-2956	1.0
+:Entity_EDL_ENG_0000495	link	Q2581
 :Entity_EDL_ENG_0000496	type	TME
-:Entity_EDL_ENG_0000496	canonical_mention	"4 June"	L0C04D4NL:209-214	1.0
-:Entity_EDL_ENG_0000496	mention	"4 June"	L0C04D4NL:209-214	1.0
-:Entity_EDL_ENG_0000496	link	Q2627
+:Entity_EDL_ENG_0000496	canonical_mention	"31 May 2"	L0C04D4NL:3728-3736	1.0
+:Entity_EDL_ENG_0000496	mention	"31 May 2"	L0C04D4NL:3728-3736	1.0
+:Entity_EDL_ENG_0000496	link	Q2591
 :Entity_EDL_ENG_0000497	type	TME
-:Entity_EDL_ENG_0000497	canonical_mention	"1887"	L0C04958F:18899-18902	1.0
-:Entity_EDL_ENG_0000497	mention	"1887"	L0C04958F:18899-18902	1.0
-:Entity_EDL_ENG_0000497	link	Q2810683
-:Entity_EDL_ENG_0000498	type	Person
-:Entity_EDL_ENG_0000498	canonical_mention	"Andrew Rambaut"	L0C04958F:10693-10706	1.0
-:Entity_EDL_ENG_0000498	mention	"Andrew Rambaut"	L0C04958F:10693-10706	1.0
-:Entity_EDL_ENG_0000498	mention	"Andrew Rambaut"	L0C04958F:12550-12563	1.0
-:Entity_EDL_ENG_0000498	link	Q28320577
-:Entity_EDL_ENG_0000499	type	VAL
-:Entity_EDL_ENG_0000499	canonical_mention	"_"	L0C04958F:1945-1945	1.0
-:Entity_EDL_ENG_0000499	mention	"_"	L0C04958F:1945-1945	1.0
-:Entity_EDL_ENG_0000499	mention	"_"	L0C04958F:4219-4219	1.0
-:Entity_EDL_ENG_0000499	link	Q2840
-:Entity_EDL_ENG_0000500	type	Person
-:Entity_EDL_ENG_0000500	canonical_mention	"Les Décodeurs"	L0C04958F:10342-10354	1.0
-:Entity_EDL_ENG_0000500	mention	"Les Décodeurs"	L0C04958F:10342-10354	1.0
-:Entity_EDL_ENG_0000500	link	Q28649970
-:Entity_EDL_ENG_0000501	type	VAL
-:Entity_EDL_ENG_0000501	canonical_mention	"1"	L0C04958F:1943-1943	1.0
-:Entity_EDL_ENG_0000501	mention	"1"	L0C04958F:1943-1943	1.0
-:Entity_EDL_ENG_0000501	link	Q2901600
-:Entity_EDL_ENG_0000502	type	Organization
-:Entity_EDL_ENG_0000502	canonical_mention	"Indian Council of Medical Research"	L0C04D4NL:3852-3885	1.0
-:Entity_EDL_ENG_0000502	mention	"Indian Council of Medical Research"	L0C04D4NL:3852-3885	1.0
-:Entity_EDL_ENG_0000502	mention	"ICMR"	L0C04D4NL:3888-3891	1.0
-:Entity_EDL_ENG_0000502	mention	"ICMR"	L0C04D4NL:5174-5177	1.0
-:Entity_EDL_ENG_0000502	mention	"ICMR"	L0C04D4NL:5693-5696	1.0
-:Entity_EDL_ENG_0000502	mention	"ICMR"	L0C04D4NL:6891-6894	1.0
-:Entity_EDL_ENG_0000502	link	Q291019
-:Entity_EDL_ENG_0000503	type	Person
-:Entity_EDL_ENG_0000503	canonical_mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
-:Entity_EDL_ENG_0000503	mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
-:Entity_EDL_ENG_0000503	link	Q29460611
-:Entity_EDL_ENG_0000504	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000504	canonical_mention	"United States"	L0C04D4NL:1484-1496	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04D4NL:1484-1496	1.0
-:Entity_EDL_ENG_0000504	mention	"US"	L0C04D4NL:1219-1220	1.0
-:Entity_EDL_ENG_0000504	canonical_mention	"United States"	L0C04958D:577-589	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:577-589	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:856-868	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:1397-1409	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:1674-1686	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:2187-2199	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:3154-3166	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:3444-3456	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:4986-4998	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:5702-5714	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:5833-5845	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:6098-6110	1.0
-:Entity_EDL_ENG_0000504	mention	"United States"	L0C04958D:6331-6343	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:68-71	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:1258-1261	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:2249-2252	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:2449-2452	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:2707-2710	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:3989-3992	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:4677-4680	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:4770-4773	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S."	L0C04958D:4893-4896	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S"	L0C04958D:1141-1143	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S"	L0C04958D:2833-2835	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S"	L0C04958D:4352-4354	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S"	L0C04958D:5406-5408	1.0
-:Entity_EDL_ENG_0000504	mention	"U.S"	L0C04958D:5450-5452	1.0
-:Entity_EDL_ENG_0000504	link	Q30
-:Entity_EDL_ENG_0000505	type	Person
-:Entity_EDL_ENG_0000505	canonical_mention	"Kristian G. Andersen"	L0C04958F:10671-10690	1.0
-:Entity_EDL_ENG_0000505	mention	"Kristian G. Andersen"	L0C04958F:10671-10690	1.0
-:Entity_EDL_ENG_0000505	mention	"Kristian G. Andersen"	L0C04958F:12528-12547	1.0
-:Entity_EDL_ENG_0000505	link	Q30145739
-:Entity_EDL_ENG_0000506	type	Organization
-:Entity_EDL_ENG_0000506	canonical_mention	"National AIDS Research Institute"	L0C04D4NL:4950-4981	1.0
-:Entity_EDL_ENG_0000506	mention	"National AIDS Research Institute"	L0C04D4NL:4950-4981	1.0
-:Entity_EDL_ENG_0000506	link	Q30281995
+:Entity_EDL_ENG_0000497	canonical_mention	"4 June"	L0C04D4NL:209-214	1.0
+:Entity_EDL_ENG_0000497	mention	"4 June"	L0C04D4NL:209-214	1.0
+:Entity_EDL_ENG_0000497	link	Q2627
+:Entity_EDL_ENG_0000498	type	TME
+:Entity_EDL_ENG_0000498	canonical_mention	"1887"	L0C04958F:18899-18902	1.0
+:Entity_EDL_ENG_0000498	mention	"1887"	L0C04958F:18899-18902	1.0
+:Entity_EDL_ENG_0000498	link	Q2810683
+:Entity_EDL_ENG_0000499	type	Person
+:Entity_EDL_ENG_0000499	canonical_mention	"Andrew Rambaut"	L0C04958F:10693-10706	1.0
+:Entity_EDL_ENG_0000499	mention	"Andrew Rambaut"	L0C04958F:10693-10706	1.0
+:Entity_EDL_ENG_0000499	mention	"Andrew Rambaut"	L0C04958F:12550-12563	1.0
+:Entity_EDL_ENG_0000499	link	Q28320577
+:Entity_EDL_ENG_0000500	type	VAL
+:Entity_EDL_ENG_0000500	canonical_mention	"_"	L0C04958F:1945-1945	1.0
+:Entity_EDL_ENG_0000500	mention	"_"	L0C04958F:1945-1945	1.0
+:Entity_EDL_ENG_0000500	mention	"_"	L0C04958F:4219-4219	1.0
+:Entity_EDL_ENG_0000500	link	Q2840
+:Entity_EDL_ENG_0000501	type	Person
+:Entity_EDL_ENG_0000501	canonical_mention	"Les Décodeurs"	L0C04958F:10342-10354	1.0
+:Entity_EDL_ENG_0000501	mention	"Les Décodeurs"	L0C04958F:10342-10354	1.0
+:Entity_EDL_ENG_0000501	link	Q28649970
+:Entity_EDL_ENG_0000502	type	VAL
+:Entity_EDL_ENG_0000502	canonical_mention	"1"	L0C04958F:1943-1943	1.0
+:Entity_EDL_ENG_0000502	mention	"1"	L0C04958F:1943-1943	1.0
+:Entity_EDL_ENG_0000502	link	Q2901600
+:Entity_EDL_ENG_0000503	type	Organization
+:Entity_EDL_ENG_0000503	canonical_mention	"Indian Council of Medical Research"	L0C04D4NL:3852-3885	1.0
+:Entity_EDL_ENG_0000503	mention	"Indian Council of Medical Research"	L0C04D4NL:3852-3885	1.0
+:Entity_EDL_ENG_0000503	mention	"ICMR"	L0C04D4NL:3888-3891	1.0
+:Entity_EDL_ENG_0000503	mention	"ICMR"	L0C04D4NL:5174-5177	1.0
+:Entity_EDL_ENG_0000503	mention	"ICMR"	L0C04D4NL:5693-5696	1.0
+:Entity_EDL_ENG_0000503	mention	"ICMR"	L0C04D4NL:6891-6894	1.0
+:Entity_EDL_ENG_0000503	link	Q291019
+:Entity_EDL_ENG_0000504	type	Person
+:Entity_EDL_ENG_0000504	canonical_mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
+:Entity_EDL_ENG_0000504	mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
+:Entity_EDL_ENG_0000504	link	Q29460611
+:Entity_EDL_ENG_0000505	type	GeopoliticalEntity
+:Entity_EDL_ENG_0000505	canonical_mention	"United States"	L0C04D4NL:1484-1496	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04D4NL:1484-1496	1.0
+:Entity_EDL_ENG_0000505	mention	"US"	L0C04D4NL:1219-1220	1.0
+:Entity_EDL_ENG_0000505	canonical_mention	"United States"	L0C04958D:577-589	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:577-589	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:856-868	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:1397-1409	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:1674-1686	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:2187-2199	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:3154-3166	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:3444-3456	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:4986-4998	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:5702-5714	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:5833-5845	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:6098-6110	1.0
+:Entity_EDL_ENG_0000505	mention	"United States"	L0C04958D:6331-6343	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:68-71	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:1258-1261	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:2249-2252	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:2449-2452	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:2707-2710	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:3989-3992	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:4677-4680	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:4770-4773	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S."	L0C04958D:4893-4896	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S"	L0C04958D:1141-1143	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S"	L0C04958D:2833-2835	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S"	L0C04958D:4352-4354	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S"	L0C04958D:5406-5408	1.0
+:Entity_EDL_ENG_0000505	mention	"U.S"	L0C04958D:5450-5452	1.0
+:Entity_EDL_ENG_0000505	link	Q30
+:Entity_EDL_ENG_0000506	type	Person
+:Entity_EDL_ENG_0000506	canonical_mention	"Kristian G. Andersen"	L0C04958F:10671-10690	1.0
+:Entity_EDL_ENG_0000506	mention	"Kristian G. Andersen"	L0C04958F:10671-10690	1.0
+:Entity_EDL_ENG_0000506	mention	"Kristian G. Andersen"	L0C04958F:12528-12547	1.0
+:Entity_EDL_ENG_0000506	link	Q30145739
 :Entity_EDL_ENG_0000507	type	Organization
-:Entity_EDL_ENG_0000507	canonical_mention	"Institut Pasteur of Shanghai"	L0C04958F:4650-4677	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:4650-4677	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:11606-11633	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:12801-12828	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:14032-14059	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:14590-14617	1.0
-:Entity_EDL_ENG_0000507	mention	"Institut Pasteur of Shanghai"	L0C04958F:14841-14868	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:4680-4682	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:11636-11638	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:12831-12833	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:14062-14064	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:14620-14622	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:14755-14757	1.0
-:Entity_EDL_ENG_0000507	mention	"IPS"	L0C04958F:14871-14873	1.0
-:Entity_EDL_ENG_0000507	link	Q30287595
+:Entity_EDL_ENG_0000507	canonical_mention	"National AIDS Research Institute"	L0C04D4NL:4950-4981	1.0
+:Entity_EDL_ENG_0000507	mention	"National AIDS Research Institute"	L0C04D4NL:4950-4981	1.0
+:Entity_EDL_ENG_0000507	link	Q30281995
 :Entity_EDL_ENG_0000508	type	Organization
-:Entity_EDL_ENG_0000508	canonical_mention	"Virology Institut of Wuhan"	L0C04958F:13740-13765	1.0
-:Entity_EDL_ENG_0000508	mention	"Virology Institut of Wuhan"	L0C04958F:13740-13765	1.0
-:Entity_EDL_ENG_0000508	mention	"Virology Institut of Wuhan"	L0C04958F:15273-15298	1.0
-:Entity_EDL_ENG_0000508	link	Q30292611
-:Entity_EDL_ENG_0000509	type	TME
-:Entity_EDL_ENG_0000509	canonical_mention	"currently"	L0C04D4MS:1268-1276	1.0
-:Entity_EDL_ENG_0000509	mention	"currently"	L0C04D4MS:1268-1276	1.0
-:Entity_EDL_ENG_0000509	link	Q30612
-:Entity_EDL_ENG_0000510	type	MHI
-:Entity_EDL_ENG_0000510	canonical_mention	"dengue"	L0C04958F:5393-5398	1.0
-:Entity_EDL_ENG_0000510	mention	"dengue"	L0C04958F:5393-5398	1.0
-:Entity_EDL_ENG_0000510	link	Q30953
-:Entity_EDL_ENG_0000511	type	TME
-:Entity_EDL_ENG_0000511	canonical_mention	"and"	L0C04958F:15974-15976	1.0
-:Entity_EDL_ENG_0000511	mention	"and"	L0C04958F:15974-15976	1.0
-:Entity_EDL_ENG_0000511	link	Q313768
-:Entity_EDL_ENG_0000512	type	Organization
-:Entity_EDL_ENG_0000512	canonical_mention	"University of Cambridge"	L0C04D4NL:4395-4417	1.0
-:Entity_EDL_ENG_0000512	mention	"University of Cambridge"	L0C04D4NL:4395-4417	1.0
-:Entity_EDL_ENG_0000512	link	Q35794
+:Entity_EDL_ENG_0000508	canonical_mention	"Institut Pasteur of Shanghai"	L0C04958F:4650-4677	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:4650-4677	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:11606-11633	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:12801-12828	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:14032-14059	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:14590-14617	1.0
+:Entity_EDL_ENG_0000508	mention	"Institut Pasteur of Shanghai"	L0C04958F:14841-14868	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:4680-4682	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:11636-11638	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:12831-12833	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:14062-14064	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:14620-14622	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:14755-14757	1.0
+:Entity_EDL_ENG_0000508	mention	"IPS"	L0C04958F:14871-14873	1.0
+:Entity_EDL_ENG_0000508	link	Q30287595
+:Entity_EDL_ENG_0000509	type	Organization
+:Entity_EDL_ENG_0000509	canonical_mention	"Virology Institut of Wuhan"	L0C04958F:13740-13765	1.0
+:Entity_EDL_ENG_0000509	mention	"Virology Institut of Wuhan"	L0C04958F:13740-13765	1.0
+:Entity_EDL_ENG_0000509	mention	"Virology Institut of Wuhan"	L0C04958F:15273-15298	1.0
+:Entity_EDL_ENG_0000509	link	Q30292611
+:Entity_EDL_ENG_0000510	type	TME
+:Entity_EDL_ENG_0000510	canonical_mention	"currently"	L0C04D4MS:1268-1276	1.0
+:Entity_EDL_ENG_0000510	mention	"currently"	L0C04D4MS:1268-1276	1.0
+:Entity_EDL_ENG_0000510	link	Q30612
+:Entity_EDL_ENG_0000511	type	MHI
+:Entity_EDL_ENG_0000511	canonical_mention	"dengue"	L0C04958F:5393-5398	1.0
+:Entity_EDL_ENG_0000511	mention	"dengue"	L0C04958F:5393-5398	1.0
+:Entity_EDL_ENG_0000511	link	Q30953
+:Entity_EDL_ENG_0000512	type	TME
+:Entity_EDL_ENG_0000512	canonical_mention	"and"	L0C04958F:15974-15976	1.0
+:Entity_EDL_ENG_0000512	mention	"and"	L0C04958F:15974-15976	1.0
+:Entity_EDL_ENG_0000512	link	Q313768
 :Entity_EDL_ENG_0000513	type	Organization
-:Entity_EDL_ENG_0000513	canonical_mention	"Lugar Center"	L0C04958D:4142-4153	1.0
-:Entity_EDL_ENG_0000513	mention	"Lugar Center"	L0C04958D:4142-4153	1.0
-:Entity_EDL_ENG_0000513	link	Q363079
+:Entity_EDL_ENG_0000513	canonical_mention	"University of Cambridge"	L0C04D4NL:4395-4417	1.0
+:Entity_EDL_ENG_0000513	mention	"University of Cambridge"	L0C04D4NL:4395-4417	1.0
+:Entity_EDL_ENG_0000513	link	Q35794
 :Entity_EDL_ENG_0000514	type	Organization
-:Entity_EDL_ENG_0000514	canonical_mention	"Central Intelligence Agency"	L0C04958D:5411-5437	1.0
-:Entity_EDL_ENG_0000514	mention	"Central Intelligence Agency"	L0C04958D:5411-5437	1.0
-:Entity_EDL_ENG_0000514	mention	"CIA"	L0C04958D:34-36	1.0
-:Entity_EDL_ENG_0000514	mention	"CIA"	L0C04958D:5638-5640	1.0
-:Entity_EDL_ENG_0000514	link	Q37230
-:Entity_EDL_ENG_0000515	type	Person
-:Entity_EDL_ENG_0000515	canonical_mention	"Joseph Cheriyan"	L0C04D4NL:4345-4359	1.0
-:Entity_EDL_ENG_0000515	mention	"Joseph Cheriyan"	L0C04D4NL:4345-4359	1.0
-:Entity_EDL_ENG_0000515	link	Q37617120
-:Entity_EDL_ENG_0000516	type	MHI
-:Entity_EDL_ENG_0000516	canonical_mention	"fever"	L0C04958F:5414-5418	1.0
-:Entity_EDL_ENG_0000516	mention	"fever"	L0C04958F:5414-5418	1.0
-:Entity_EDL_ENG_0000516	link	Q38933
-:Entity_EDL_ENG_0000517	type	Organization
-:Entity_EDL_ENG_0000517	canonical_mention	"https://twitter.com/MinSoliSante/status/1240239777925881856"	L0C04958F:12731-12789	1.0
-:Entity_EDL_ENG_0000517	mention	"https://twitter.com/MinSoliSante/status/1240239777925881856"	L0C04958F:12731-12789	1.0
-:Entity_EDL_ENG_0000517	mention	"Shanghai Pasteur Institute"	L0C04958F:14727-14752	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur's"	L0C04958F:674-691	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur's"	L0C04958F:7220-7237	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur's"	L0C04958F:17051-17068	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur's"	L0C04958F:17409-17426	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur's"	L0C04958F:18574-18591	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:14-29	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:350-365	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:372-387	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:528-543	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:583-598	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:847-862	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1377-1392	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1403-1418	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1487-1502	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1670-1685	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1883-1898	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:1951-1966	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:2809-2824	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:3000-3015	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:3364-3379	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:4225-4240	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:4349-4364	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:4586-4601	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:4793-4808	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:4967-4982	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:5163-5178	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:5638-5653	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:5733-5748	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:5774-5789	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:6239-6254	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:6420-6435	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:6521-6536	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:6827-6842	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:7324-7339	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:9268-9283	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:9820-9835	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:11320-11335	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:11701-11716	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:12713-12728	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:13846-13861	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:14299-14314	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:14426-14441	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:15728-15743	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:15899-15914	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:16366-16381	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:16636-16651	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:16784-16799	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:16830-16845	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:18828-18843	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:19096-19111	1.0
-:Entity_EDL_ENG_0000517	mention	"Institut Pasteur"	L0C04958F:19462-19477	1.0
-:Entity_EDL_ENG_0000517	mention	"one"	L0C04958F:4567-4569	1.0
-:Entity_EDL_ENG_0000517	link	Q391083
-:Entity_EDL_ENG_0000518	type	TTL
-:Entity_EDL_ENG_0000518	canonical_mention	"doctor"	L0C04D4MS:2617-2622	1.0
-:Entity_EDL_ENG_0000518	mention	"doctor"	L0C04D4MS:2617-2622	1.0
-:Entity_EDL_ENG_0000518	link	Q39631
-:Entity_EDL_ENG_0000519	type	MHI
-:Entity_EDL_ENG_0000519	canonical_mention	"diarrhoea"	L0C04D4NL:2712-2720	1.0
-:Entity_EDL_ENG_0000519	mention	"diarrhoea"	L0C04D4NL:2712-2720	1.0
-:Entity_EDL_ENG_0000519	link	Q40878
-:Entity_EDL_ENG_0000520	type	Person
-:Entity_EDL_ENG_0000520	canonical_mention	"Kosta K"	L0C04D4MS:3818-3824	1.0
-:Entity_EDL_ENG_0000520	mention	"Kosta K"	L0C04D4MS:3818-3824	1.0
-:Entity_EDL_ENG_0000520	link	Q41191951
-:Entity_EDL_ENG_0000521	type	TME
-:Entity_EDL_ENG_0000521	canonical_mention	"November 4, 2020"	L0C04958F:16485-16500	1.0
-:Entity_EDL_ENG_0000521	mention	"November 4, 2020"	L0C04958F:16485-16500	1.0
-:Entity_EDL_ENG_0000521	mention	"November 4, 2020"	L0C04958F:18958-18973	1.0
-:Entity_EDL_ENG_0000521	link	Q41754202
-:Entity_EDL_ENG_0000522	type	Person
-:Entity_EDL_ENG_0000522	canonical_mention	"Sahaj Rathi"	L0C04D4NL:4766-4776	1.0
-:Entity_EDL_ENG_0000522	mention	"Sahaj Rathi"	L0C04D4NL:4766-4776	1.0
-:Entity_EDL_ENG_0000522	link	Q41789850
-:Entity_EDL_ENG_0000523	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000523	canonical_mention	"Cambodia"	L0C04958F:15591-15598	1.0
-:Entity_EDL_ENG_0000523	mention	"Cambodia"	L0C04958F:15591-15598	1.0
-:Entity_EDL_ENG_0000523	link	Q424
+:Entity_EDL_ENG_0000514	canonical_mention	"Lugar Center"	L0C04958D:4142-4153	1.0
+:Entity_EDL_ENG_0000514	mention	"Lugar Center"	L0C04958D:4142-4153	1.0
+:Entity_EDL_ENG_0000514	link	Q363079
+:Entity_EDL_ENG_0000515	type	Organization
+:Entity_EDL_ENG_0000515	canonical_mention	"Central Intelligence Agency"	L0C04958D:5411-5437	1.0
+:Entity_EDL_ENG_0000515	mention	"Central Intelligence Agency"	L0C04958D:5411-5437	1.0
+:Entity_EDL_ENG_0000515	mention	"CIA"	L0C04958D:34-36	1.0
+:Entity_EDL_ENG_0000515	mention	"CIA"	L0C04958D:5638-5640	1.0
+:Entity_EDL_ENG_0000515	link	Q37230
+:Entity_EDL_ENG_0000516	type	Person
+:Entity_EDL_ENG_0000516	canonical_mention	"Joseph Cheriyan"	L0C04D4NL:4345-4359	1.0
+:Entity_EDL_ENG_0000516	mention	"Joseph Cheriyan"	L0C04D4NL:4345-4359	1.0
+:Entity_EDL_ENG_0000516	link	Q37617120
+:Entity_EDL_ENG_0000517	type	MHI
+:Entity_EDL_ENG_0000517	canonical_mention	"fever"	L0C04958F:5414-5418	1.0
+:Entity_EDL_ENG_0000517	mention	"fever"	L0C04958F:5414-5418	1.0
+:Entity_EDL_ENG_0000517	link	Q38933
+:Entity_EDL_ENG_0000518	type	Organization
+:Entity_EDL_ENG_0000518	canonical_mention	"https://twitter.com/MinSoliSante/status/1240239777925881856"	L0C04958F:12731-12789	1.0
+:Entity_EDL_ENG_0000518	mention	"https://twitter.com/MinSoliSante/status/1240239777925881856"	L0C04958F:12731-12789	1.0
+:Entity_EDL_ENG_0000518	mention	"Shanghai Pasteur Institute"	L0C04958F:14727-14752	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur's"	L0C04958F:674-691	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur's"	L0C04958F:7220-7237	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur's"	L0C04958F:17051-17068	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur's"	L0C04958F:17409-17426	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur's"	L0C04958F:18574-18591	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:14-29	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:350-365	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:372-387	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:528-543	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:583-598	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:847-862	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1377-1392	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1403-1418	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1487-1502	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1670-1685	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1883-1898	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:1951-1966	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:2809-2824	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:3000-3015	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:3364-3379	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:4225-4240	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:4349-4364	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:4586-4601	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:4793-4808	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:4967-4982	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:5163-5178	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:5638-5653	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:5733-5748	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:5774-5789	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:6239-6254	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:6420-6435	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:6521-6536	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:6827-6842	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:7324-7339	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:9268-9283	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:9820-9835	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:11320-11335	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:11701-11716	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:12713-12728	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:13846-13861	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:14299-14314	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:14426-14441	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:15728-15743	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:15899-15914	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:16366-16381	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:16636-16651	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:16784-16799	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:16830-16845	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:18828-18843	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:19096-19111	1.0
+:Entity_EDL_ENG_0000518	mention	"Institut Pasteur"	L0C04958F:19462-19477	1.0
+:Entity_EDL_ENG_0000518	mention	"one"	L0C04958F:4567-4569	1.0
+:Entity_EDL_ENG_0000518	link	Q391083
+:Entity_EDL_ENG_0000519	type	TTL
+:Entity_EDL_ENG_0000519	canonical_mention	"doctor"	L0C04D4MS:2617-2622	1.0
+:Entity_EDL_ENG_0000519	mention	"doctor"	L0C04D4MS:2617-2622	1.0
+:Entity_EDL_ENG_0000519	link	Q39631
+:Entity_EDL_ENG_0000520	type	MHI
+:Entity_EDL_ENG_0000520	canonical_mention	"diarrhoea"	L0C04D4NL:2712-2720	1.0
+:Entity_EDL_ENG_0000520	mention	"diarrhoea"	L0C04D4NL:2712-2720	1.0
+:Entity_EDL_ENG_0000520	link	Q40878
+:Entity_EDL_ENG_0000521	type	Person
+:Entity_EDL_ENG_0000521	canonical_mention	"Kosta K"	L0C04D4MS:3818-3824	1.0
+:Entity_EDL_ENG_0000521	mention	"Kosta K"	L0C04D4MS:3818-3824	1.0
+:Entity_EDL_ENG_0000521	link	Q41191951
+:Entity_EDL_ENG_0000522	type	TME
+:Entity_EDL_ENG_0000522	canonical_mention	"November 4, 2020"	L0C04958F:16485-16500	1.0
+:Entity_EDL_ENG_0000522	mention	"November 4, 2020"	L0C04958F:16485-16500	1.0
+:Entity_EDL_ENG_0000522	mention	"November 4, 2020"	L0C04958F:18958-18973	1.0
+:Entity_EDL_ENG_0000522	link	Q41754202
+:Entity_EDL_ENG_0000523	type	Person
+:Entity_EDL_ENG_0000523	canonical_mention	"Sahaj Rathi"	L0C04D4NL:4766-4776	1.0
+:Entity_EDL_ENG_0000523	mention	"Sahaj Rathi"	L0C04D4NL:4766-4776	1.0
+:Entity_EDL_ENG_0000523	link	Q41789850
 :Entity_EDL_ENG_0000524	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000524	canonical_mention	"Europe"	L0C04D4NL:1499-1504	1.0
-:Entity_EDL_ENG_0000524	mention	"Europe"	L0C04D4NL:1499-1504	1.0
-:Entity_EDL_ENG_0000524	link	Q46
-:Entity_EDL_ENG_0000525	type	PER
-:Entity_EDL_ENG_0000525	canonical_mention	"Holmes"	L0C04958F:10734-10739	1.0
-:Entity_EDL_ENG_0000525	mention	"Holmes"	L0C04958F:10734-10739	1.0
-:Entity_EDL_ENG_0000525	mention	"Holmes"	L0C04958F:12591-12596	1.0
-:Entity_EDL_ENG_0000525	link	Q4653
-:Entity_EDL_ENG_0000526	type	Organization
-:Entity_EDL_ENG_0000526	canonical_mention	"Senlis Criminal Court"	L0C04958F:19006-19026	1.0
-:Entity_EDL_ENG_0000526	mention	"Senlis Criminal Court"	L0C04958F:19006-19026	1.0
-:Entity_EDL_ENG_0000526	link	Q467572
-:Entity_EDL_ENG_0000527	type	VAL
-:Entity_EDL_ENG_0000527	canonical_mention	"1"	L0C04D4MS:356-356	1.0
-:Entity_EDL_ENG_0000527	mention	"1"	L0C04D4MS:356-356	1.0
-:Entity_EDL_ENG_0000527	link	Q47109866
-:Entity_EDL_ENG_0000528	type	Location
-:Entity_EDL_ENG_0000528	canonical_mention	"Asia"	L0C04958F:15557-15560	1.0
-:Entity_EDL_ENG_0000528	mention	"Asia"	L0C04958F:15557-15560	1.0
-:Entity_EDL_ENG_0000528	link	Q48
-:Entity_EDL_ENG_0000529	type	TTL
-:Entity_EDL_ENG_0000529	canonical_mention	"author"	L0C04D4NL:5004-5009	1.0
-:Entity_EDL_ENG_0000529	mention	"author"	L0C04D4NL:5004-5009	1.0
-:Entity_EDL_ENG_0000529	canonical_mention	"author"	L0C04958F:6888-6893	1.0
-:Entity_EDL_ENG_0000529	mention	"author"	L0C04958F:6888-6893	1.0
-:Entity_EDL_ENG_0000529	mention	"author"	L0C04958F:6979-6984	1.0
-:Entity_EDL_ENG_0000529	mention	"author"	L0C04958F:19041-19046	1.0
-:Entity_EDL_ENG_0000529	link	Q482980
-:Entity_EDL_ENG_0000530	type	Person
-:Entity_EDL_ENG_0000530	canonical_mention	"Bhargava"	L0C04D4NL:6397-6404	1.0
-:Entity_EDL_ENG_0000530	mention	"Bhargava"	L0C04D4NL:6397-6404	1.0
-:Entity_EDL_ENG_0000530	link	Q4901273
-:Entity_EDL_ENG_0000531	type	Organization
-:Entity_EDL_ENG_0000531	canonical_mention	"Chinese Center for Disease Control and Prevention"	L0C04958F:15207-15255	1.0
-:Entity_EDL_ENG_0000531	mention	"Chinese Center for Disease Control and Prevention"	L0C04958F:15207-15255	1.0
-:Entity_EDL_ENG_0000531	link	Q5100405
-:Entity_EDL_ENG_0000532	type	Person
-:Entity_EDL_ENG_0000532	canonical_mention	"Edward C"	L0C04958F:10724-10731	1.0
-:Entity_EDL_ENG_0000532	mention	"Edward C"	L0C04958F:10724-10731	1.0
-:Entity_EDL_ENG_0000532	link	Q5342136
-:Entity_EDL_ENG_0000533	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000533	canonical_mention	"pro-Kremlin"	L0C04958D:39-49	1.0
-:Entity_EDL_ENG_0000533	mention	"pro-Kremlin"	L0C04958D:39-49	1.0
-:Entity_EDL_ENG_0000533	mention	"pro-Kremlin"	L0C04958D:534-544	1.0
-:Entity_EDL_ENG_0000533	mention	"pro-Kremlin"	L0C04958D:1742-1752	1.0
-:Entity_EDL_ENG_0000533	mention	"pro-Kremlin"	L0C04958D:3351-3361	1.0
-:Entity_EDL_ENG_0000533	mention	"Pro-Kremlin"	L0C04958D:3412-3422	1.0
-:Entity_EDL_ENG_0000533	link	Q5468438
-:Entity_EDL_ENG_0000534	type	TME
-:Entity_EDL_ENG_0000534	canonical_mention	"March 2020"	L0C04958F:6783-6792	1.0
-:Entity_EDL_ENG_0000534	mention	"March 2020"	L0C04958F:6783-6792	1.0
-:Entity_EDL_ENG_0000534	link	Q55018431
-:Entity_EDL_ENG_0000535	type	Person
-:Entity_EDL_ENG_0000535	canonical_mention	"Shriprakash Kalantri"	L0C04D4NL:6254-6273	1.0
-:Entity_EDL_ENG_0000535	mention	"Shriprakash Kalantri"	L0C04D4NL:6254-6273	1.0
-:Entity_EDL_ENG_0000535	link	Q56057072
+:Entity_EDL_ENG_0000524	canonical_mention	"Cambodia"	L0C04958F:15591-15598	1.0
+:Entity_EDL_ENG_0000524	mention	"Cambodia"	L0C04958F:15591-15598	1.0
+:Entity_EDL_ENG_0000524	link	Q424
+:Entity_EDL_ENG_0000525	type	GeopoliticalEntity
+:Entity_EDL_ENG_0000525	canonical_mention	"Europe"	L0C04D4NL:1499-1504	1.0
+:Entity_EDL_ENG_0000525	mention	"Europe"	L0C04D4NL:1499-1504	1.0
+:Entity_EDL_ENG_0000525	link	Q46
+:Entity_EDL_ENG_0000526	type	PER
+:Entity_EDL_ENG_0000526	canonical_mention	"Holmes"	L0C04958F:10734-10739	1.0
+:Entity_EDL_ENG_0000526	mention	"Holmes"	L0C04958F:10734-10739	1.0
+:Entity_EDL_ENG_0000526	mention	"Holmes"	L0C04958F:12591-12596	1.0
+:Entity_EDL_ENG_0000526	link	Q4653
+:Entity_EDL_ENG_0000527	type	Organization
+:Entity_EDL_ENG_0000527	canonical_mention	"Senlis Criminal Court"	L0C04958F:19006-19026	1.0
+:Entity_EDL_ENG_0000527	mention	"Senlis Criminal Court"	L0C04958F:19006-19026	1.0
+:Entity_EDL_ENG_0000527	link	Q467572
+:Entity_EDL_ENG_0000528	type	VAL
+:Entity_EDL_ENG_0000528	canonical_mention	"1"	L0C04D4MS:356-356	1.0
+:Entity_EDL_ENG_0000528	mention	"1"	L0C04D4MS:356-356	1.0
+:Entity_EDL_ENG_0000528	link	Q47109866
+:Entity_EDL_ENG_0000529	type	Location
+:Entity_EDL_ENG_0000529	canonical_mention	"Asia"	L0C04958F:15557-15560	1.0
+:Entity_EDL_ENG_0000529	mention	"Asia"	L0C04958F:15557-15560	1.0
+:Entity_EDL_ENG_0000529	link	Q48
+:Entity_EDL_ENG_0000530	type	TTL
+:Entity_EDL_ENG_0000530	canonical_mention	"author"	L0C04D4NL:5004-5009	1.0
+:Entity_EDL_ENG_0000530	mention	"author"	L0C04D4NL:5004-5009	1.0
+:Entity_EDL_ENG_0000530	canonical_mention	"author"	L0C04958F:6888-6893	1.0
+:Entity_EDL_ENG_0000530	mention	"author"	L0C04958F:6888-6893	1.0
+:Entity_EDL_ENG_0000530	mention	"author"	L0C04958F:6979-6984	1.0
+:Entity_EDL_ENG_0000530	mention	"author"	L0C04958F:19041-19046	1.0
+:Entity_EDL_ENG_0000530	link	Q482980
+:Entity_EDL_ENG_0000531	type	Person
+:Entity_EDL_ENG_0000531	canonical_mention	"Bhargava"	L0C04D4NL:6397-6404	1.0
+:Entity_EDL_ENG_0000531	mention	"Bhargava"	L0C04D4NL:6397-6404	1.0
+:Entity_EDL_ENG_0000531	link	Q4901273
+:Entity_EDL_ENG_0000532	type	Organization
+:Entity_EDL_ENG_0000532	canonical_mention	"Chinese Center for Disease Control and Prevention"	L0C04958F:15207-15255	1.0
+:Entity_EDL_ENG_0000532	mention	"Chinese Center for Disease Control and Prevention"	L0C04958F:15207-15255	1.0
+:Entity_EDL_ENG_0000532	link	Q5100405
+:Entity_EDL_ENG_0000533	type	Person
+:Entity_EDL_ENG_0000533	canonical_mention	"Edward C"	L0C04958F:10724-10731	1.0
+:Entity_EDL_ENG_0000533	mention	"Edward C"	L0C04958F:10724-10731	1.0
+:Entity_EDL_ENG_0000533	link	Q5342136
+:Entity_EDL_ENG_0000534	type	GeopoliticalEntity
+:Entity_EDL_ENG_0000534	canonical_mention	"pro-Kremlin"	L0C04958D:39-49	1.0
+:Entity_EDL_ENG_0000534	mention	"pro-Kremlin"	L0C04958D:39-49	1.0
+:Entity_EDL_ENG_0000534	mention	"pro-Kremlin"	L0C04958D:534-544	1.0
+:Entity_EDL_ENG_0000534	mention	"pro-Kremlin"	L0C04958D:1742-1752	1.0
+:Entity_EDL_ENG_0000534	mention	"pro-Kremlin"	L0C04958D:3351-3361	1.0
+:Entity_EDL_ENG_0000534	mention	"Pro-Kremlin"	L0C04958D:3412-3422	1.0
+:Entity_EDL_ENG_0000534	link	Q5468438
+:Entity_EDL_ENG_0000535	type	TME
+:Entity_EDL_ENG_0000535	canonical_mention	"March 2020"	L0C04958F:6783-6792	1.0
+:Entity_EDL_ENG_0000535	mention	"March 2020"	L0C04958F:6783-6792	1.0
+:Entity_EDL_ENG_0000535	link	Q55018431
 :Entity_EDL_ENG_0000536	type	Person
-:Entity_EDL_ENG_0000536	canonical_mention	"Olivier Schwartz"	L0C04958F:9759-9774	1.0
-:Entity_EDL_ENG_0000536	mention	"Olivier Schwartz"	L0C04958F:9759-9774	1.0
-:Entity_EDL_ENG_0000536	mention	"Olivier Schwartz"	L0C04958F:12661-12676	1.0
-:Entity_EDL_ENG_0000536	link	Q56373580
+:Entity_EDL_ENG_0000536	canonical_mention	"Shriprakash Kalantri"	L0C04D4NL:6254-6273	1.0
+:Entity_EDL_ENG_0000536	mention	"Shriprakash Kalantri"	L0C04D4NL:6254-6273	1.0
+:Entity_EDL_ENG_0000536	link	Q56057072
 :Entity_EDL_ENG_0000537	type	Person
-:Entity_EDL_ENG_0000537	canonical_mention	"Vanderson Sousa Sampaio"	L0C04D4MS:3428-3450	1.0
-:Entity_EDL_ENG_0000537	mention	"Vanderson Sousa Sampaio"	L0C04D4MS:3428-3450	1.0
-:Entity_EDL_ENG_0000537	link	Q56438521
-:Entity_EDL_ENG_0000538	type	Organization
-:Entity_EDL_ENG_0000538	canonical_mention	"China News Service/Wikimedia Commons"	L0C04958D:197-232	1.0
-:Entity_EDL_ENG_0000538	mention	"China News Service/Wikimedia Commons"	L0C04958D:197-232	1.0
-:Entity_EDL_ENG_0000538	link	Q565
-:Entity_EDL_ENG_0000539	type	MHI
-:Entity_EDL_ENG_0000539	canonical_mention	"measles virus"	L0C04958F:17548-17560	1.0
-:Entity_EDL_ENG_0000539	mention	"measles virus"	L0C04958F:17548-17560	1.0
-:Entity_EDL_ENG_0000539	link	Q573943
-:Entity_EDL_ENG_0000540	type	TME
-:Entity_EDL_ENG_0000540	canonical_mention	"23 April 2020"	L0C04D4MS:4094-4106	1.0
-:Entity_EDL_ENG_0000540	mention	"23 April 2020"	L0C04D4MS:4094-4106	1.0
-:Entity_EDL_ENG_0000540	link	Q57396715
+:Entity_EDL_ENG_0000537	canonical_mention	"Olivier Schwartz"	L0C04958F:9759-9774	1.0
+:Entity_EDL_ENG_0000537	mention	"Olivier Schwartz"	L0C04958F:9759-9774	1.0
+:Entity_EDL_ENG_0000537	mention	"Olivier Schwartz"	L0C04958F:12661-12676	1.0
+:Entity_EDL_ENG_0000537	link	Q56373580
+:Entity_EDL_ENG_0000538	type	Person
+:Entity_EDL_ENG_0000538	canonical_mention	"Vanderson Sousa Sampaio"	L0C04D4MS:3428-3450	1.0
+:Entity_EDL_ENG_0000538	mention	"Vanderson Sousa Sampaio"	L0C04D4MS:3428-3450	1.0
+:Entity_EDL_ENG_0000538	link	Q56438521
+:Entity_EDL_ENG_0000539	type	Organization
+:Entity_EDL_ENG_0000539	canonical_mention	"China News Service/Wikimedia Commons"	L0C04958D:197-232	1.0
+:Entity_EDL_ENG_0000539	mention	"China News Service/Wikimedia Commons"	L0C04958D:197-232	1.0
+:Entity_EDL_ENG_0000539	link	Q565
+:Entity_EDL_ENG_0000540	type	MHI
+:Entity_EDL_ENG_0000540	canonical_mention	"measles virus"	L0C04958F:17548-17560	1.0
+:Entity_EDL_ENG_0000540	mention	"measles virus"	L0C04958F:17548-17560	1.0
+:Entity_EDL_ENG_0000540	link	Q573943
 :Entity_EDL_ENG_0000541	type	TME
-:Entity_EDL_ENG_0000541	canonical_mention	"October 22, 2020"	L0C04958F:1005-1020	1.0
-:Entity_EDL_ENG_0000541	mention	"October 22, 2020"	L0C04958F:1005-1020	1.0
-:Entity_EDL_ENG_0000541	link	Q57396943
-:Entity_EDL_ENG_0000542	type	GeopoliticalEntity
-:Entity_EDL_ENG_0000542	canonical_mention	"anti-U.S."	L0C04958D:6483-6491	1.0
-:Entity_EDL_ENG_0000542	mention	"anti-U.S."	L0C04958D:6483-6491	1.0
-:Entity_EDL_ENG_0000542	link	Q574827
-:Entity_EDL_ENG_0000543	type	VAL
-:Entity_EDL_ENG_0000543	canonical_mention	"4"	L0C04958F:13037-13037	1.0
-:Entity_EDL_ENG_0000543	mention	"4"	L0C04958F:13037-13037	1.0
-:Entity_EDL_ENG_0000543	link	Q580606
-:Entity_EDL_ENG_0000544	type	Organization
-:Entity_EDL_ENG_0000544	canonical_mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
-:Entity_EDL_ENG_0000544	mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
-:Entity_EDL_ENG_0000544	link	Q58689382
+:Entity_EDL_ENG_0000541	canonical_mention	"23 April 2020"	L0C04D4MS:4094-4106	1.0
+:Entity_EDL_ENG_0000541	mention	"23 April 2020"	L0C04D4MS:4094-4106	1.0
+:Entity_EDL_ENG_0000541	link	Q57396715
+:Entity_EDL_ENG_0000542	type	TME
+:Entity_EDL_ENG_0000542	canonical_mention	"October 22, 2020"	L0C04958F:1005-1020	1.0
+:Entity_EDL_ENG_0000542	mention	"October 22, 2020"	L0C04958F:1005-1020	1.0
+:Entity_EDL_ENG_0000542	link	Q57396943
+:Entity_EDL_ENG_0000543	type	GeopoliticalEntity
+:Entity_EDL_ENG_0000543	canonical_mention	"anti-U.S."	L0C04958D:6483-6491	1.0
+:Entity_EDL_ENG_0000543	mention	"anti-U.S."	L0C04958D:6483-6491	1.0
+:Entity_EDL_ENG_0000543	link	Q574827
+:Entity_EDL_ENG_0000544	type	VAL
+:Entity_EDL_ENG_0000544	canonical_mention	"4"	L0C04958F:13037-13037	1.0
+:Entity_EDL_ENG_0000544	mention	"4"	L0C04958F:13037-13037	1.0
+:Entity_EDL_ENG_0000544	link	Q580606
 :Entity_EDL_ENG_0000545	type	ORG
 :Entity_EDL_ENG_0000545	canonical_mention	"International Health Regulations"	L0C04958F:13366-13397	1.0
 :Entity_EDL_ENG_0000545	mention	"International Health Regulations"	L0C04958F:13366-13397	1.0
@@ -2440,22 +2440,22 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000556	mention	"October 9, 2004"	L0C04958F:13311-13325	1.0
 :Entity_EDL_ENG_0000556	link	Q69305761
 :Entity_EDL_ENG_0000557	type	TME
-:Entity_EDL_ENG_0000557	canonical_mention	"November 2, 2020"	L0C04958F:6847-6862	1.0
-:Entity_EDL_ENG_0000557	mention	"November 2, 2020"	L0C04958F:6847-6862	1.0
-:Entity_EDL_ENG_0000557	link	Q69306603
+:Entity_EDL_ENG_0000557	canonical_mention	"March 23, 2020"	L0C04958F:10974-10987	1.0
+:Entity_EDL_ENG_0000557	mention	"March 23, 2020"	L0C04958F:10974-10987	1.0
+:Entity_EDL_ENG_0000557	link	Q69305997
 :Entity_EDL_ENG_0000558	type	TME
-:Entity_EDL_ENG_0000558	canonical_mention	"March 17, 2020"	L0C04958F:10573-10586	1.0
-:Entity_EDL_ENG_0000558	mention	"March 17, 2020"	L0C04958F:10573-10586	1.0
-:Entity_EDL_ENG_0000558	mention	"March 17, 2020"	L0C04958F:16523-16536	1.0
-:Entity_EDL_ENG_0000558	link	Q69306740
+:Entity_EDL_ENG_0000558	canonical_mention	"March 18, 2020"	L0C04958F:16461-16474	1.0
+:Entity_EDL_ENG_0000558	mention	"March 18, 2020"	L0C04958F:16461-16474	1.0
+:Entity_EDL_ENG_0000558	link	Q69306370
 :Entity_EDL_ENG_0000559	type	TME
-:Entity_EDL_ENG_0000559	canonical_mention	"March 18, 2020"	L0C04958F:16461-16474	1.0
-:Entity_EDL_ENG_0000559	mention	"March 18, 2020"	L0C04958F:16461-16474	1.0
-:Entity_EDL_ENG_0000559	link	Q69307109
+:Entity_EDL_ENG_0000559	canonical_mention	"November 2, 2020"	L0C04958F:6847-6862	1.0
+:Entity_EDL_ENG_0000559	mention	"November 2, 2020"	L0C04958F:6847-6862	1.0
+:Entity_EDL_ENG_0000559	link	Q69306603
 :Entity_EDL_ENG_0000560	type	TME
-:Entity_EDL_ENG_0000560	canonical_mention	"March 23, 2020"	L0C04958F:10974-10987	1.0
-:Entity_EDL_ENG_0000560	mention	"March 23, 2020"	L0C04958F:10974-10987	1.0
-:Entity_EDL_ENG_0000560	link	Q69307856
+:Entity_EDL_ENG_0000560	canonical_mention	"March 17, 2020"	L0C04958F:10573-10586	1.0
+:Entity_EDL_ENG_0000560	mention	"March 17, 2020"	L0C04958F:10573-10586	1.0
+:Entity_EDL_ENG_0000560	mention	"March 17, 2020"	L0C04958F:16523-16536	1.0
+:Entity_EDL_ENG_0000560	link	Q69306740
 :Entity_EDL_ENG_0000561	type	TME
 :Entity_EDL_ENG_0000561	canonical_mention	"December 1, 2020"	L0C04958F:820-835	1.0
 :Entity_EDL_ENG_0000561	mention	"December 1, 2020"	L0C04958F:820-835	1.0

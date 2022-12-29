@@ -292,7 +292,7 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000018	mention	"Senlis Criminal Court"	L0C04958F:19006-19026	1.0
 :Entity_EDL_ENG_0000018	mention	"Paris Court"	L0C04958F:6626-6636	1.0
 :Entity_EDL_ENG_0000018	nominal_mention	"court"	L0C04958F:6799-6803	1.0
-:Entity_EDL_ENG_0000018	link	Q467572
+:Entity_EDL_ENG_0000018	link	Q2159907
 :Entity_EDL_ENG_0000019	type	Person
 :Entity_EDL_ENG_0000019	canonical_mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
 :Entity_EDL_ENG_0000019	mention	"Etienne Simon-Lorière"	L0C04958F:9173-9193	1.0
@@ -348,7 +348,7 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000027	mention	"Edward C"	L0C04958F:12581-12588	1.0
 :Entity_EDL_ENG_0000027	mention	"Garry"	L0C04958F:10751-10755	1.0
 :Entity_EDL_ENG_0000027	mention	"Garry"	L0C04958F:12608-12612	1.0
-:Entity_EDL_ENG_0000027	link	Q28320577
+:Entity_EDL_ENG_0000027	link	Q7945702
 :Entity_EDL_ENG_0000028	type	PER
 :Entity_EDL_ENG_0000028	canonical_mention	"Holmes"	L0C04958F:10734-10739	1.0
 :Entity_EDL_ENG_0000028	mention	"Holmes"	L0C04958F:10734-10739	1.0
@@ -497,7 +497,7 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000055	pronominal_mention	"he"	L0C04D4NL:4898-4899	1.0
 :Entity_EDL_ENG_0000055	pronominal_mention	"I"	L0C04D4NL:4823-4823	1.0
 :Entity_EDL_ENG_0000055	pronominal_mention	"I"	L0C04D4NL:4879-4879	1.0
-:Entity_EDL_ENG_0000055	link	Q41789850
+:Entity_EDL_ENG_0000055	link	Q6122737
 :Entity_EDL_ENG_0000056	type	Person
 :Entity_EDL_ENG_0000056	canonical_mention	"Samiran Panda"	L0C04D4NL:4908-4920	1.0
 :Entity_EDL_ENG_0000056	mention	"Samiran Panda"	L0C04D4NL:4908-4920	1.0
@@ -748,7 +748,7 @@ RPI_BLENDER1
 :Entity_EDL_ENG_0000102	type	Organization
 :Entity_EDL_ENG_0000102	canonical_mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
 :Entity_EDL_ENG_0000102	mention	"РИА КАТЮША/archive"	L0C04958D:6151-6168	1.0
-:Entity_EDL_ENG_0000102	link	Q58689382
+:Entity_EDL_ENG_0000102	link	Q17476605
 :Entity_EDL_ENG_0000103	type	Organization
 :Entity_EDL_ENG_0000103	canonical_mention	"Третий Рим. Россия (Новости Политика"	L0C04958D:6206-6241	1.0
 :Entity_EDL_ENG_0000103	mention	"Третий Рим. Россия (Новости Политика"	L0C04958D:6206-6241	1.0

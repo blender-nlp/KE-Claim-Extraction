@@ -120,33 +120,6 @@
             "claimer_type_qnode":"Q5",
             "associated_KEs":[
                 [
-                    "EN_Relation_000001",
-                    "",
-                    "OrganizationAffiliation.EmploymentMembership",
-                    "L0C04958F:670-809",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000001",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000175":[
-                                [
-                                    "L0C04958F:670-809",
-                                    "L0C04958F:670-809",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000006":[
-                                [
-                                    "L0C04958F:670-809",
-                                    "L0C04958F:670-809",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000002",
                     "",
                     "OrganizationAffiliation.EmploymentMembership",
@@ -174,28 +147,31 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "Chinese",
-                    "GeopoliticalEntity",
-                    "L0C04958F:976-982",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000176",
-                    "authorities",
-                    "Person",
-                    "L0C04958F:984-994",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000176",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000006",
-                    "Institut Pasteur",
-                    "Organization",
-                    "L0C04958F:847-862",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
-                    ""
+                    "EN_Relation_000001",
+                    "",
+                    "OrganizationAffiliation.EmploymentMembership",
+                    "L0C04958F:670-809",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000001",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000175":[
+                                [
+                                    "L0C04958F:670-809",
+                                    "L0C04958F:670-809",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000006":[
+                                [
+                                    "L0C04958F:670-809",
+                                    "L0C04958F:670-809",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000001",
@@ -214,11 +190,35 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000006",
+                    "Institut Pasteur",
+                    "Organization",
+                    "L0C04958F:847-862",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000176",
+                    "authorities",
+                    "Person",
+                    "L0C04958F:984-994",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000176",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000009",
                     "SARS-CoV-2 virus",
                     "MHI",
                     "L0C04958F:883-898",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000009",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "Chinese",
+                    "GeopoliticalEntity",
+                    "L0C04958F:976-982",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
                     ""
                 ]
             ],
@@ -723,24 +723,6 @@
             "claimer_type_qnode":"Q31855",
             "associated_KEs":[
                 [
-                    "EN_Event_000006",
-                    "proposed",
-                    "Contact.Broadcast",
-                    "L0C04958F:3381-3388",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958F\/EN_Event_000006",
-                    {
-                        "Broadcaster":{
-                            "EN_Entity_EDL_ENG_0000006":[
-                                [
-                                    "L0C04958F:3381-3388",
-                                    "L0C04958F:3364-3379",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Event_000003",
                     "invent",
                     "Manufacture.Artifact",
@@ -817,12 +799,22 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000130",
-                    "March 2003",
-                    "TME",
-                    "L0C04958F:3286-3295",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
-                    ""
+                    "EN_Event_000006",
+                    "proposed",
+                    "Contact.Broadcast",
+                    "L0C04958F:3381-3388",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958F\/EN_Event_000006",
+                    {
+                        "Broadcaster":{
+                            "EN_Entity_EDL_ENG_0000006":[
+                                [
+                                    "L0C04958F:3381-3388",
+                                    "L0C04958F:3364-3379",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000147",
@@ -841,33 +833,23 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000130",
+                    "March 2003",
+                    "TME",
+                    "L0C04958F:3286-3295",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000006",
                     "https:\/\/twitter.com\/MinSoliSante\/status\/1240239777925881856",
                     "Organization",
-                    "L0C04958F:3364-3379",
+                    "L0C04958F:1951-1966",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
                     ""
                 ]
             ],
             "claim_semantics":[
-                [
-                    "EN_Event_000006",
-                    "proposed",
-                    "Contact.Broadcast",
-                    "L0C04958F:3381-3388",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958F\/EN_Event_000006",
-                    {
-                        "Broadcaster":{
-                            "EN_Entity_EDL_ENG_0000006":[
-                                [
-                                    "L0C04958F:3381-3388",
-                                    "L0C04958F:3364-3379",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
                 [
                     "EN_Event_000003",
                     "invent",
@@ -907,20 +889,22 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000130",
-                    "March 2003",
-                    "TME",
-                    "L0C04958F:3286-3295",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000130",
-                    "March 2003",
-                    "TME",
-                    "L0C04958F:3286-3295",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
-                    ""
+                    "EN_Event_000006",
+                    "proposed",
+                    "Contact.Broadcast",
+                    "L0C04958F:3381-3388",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958F\/EN_Event_000006",
+                    {
+                        "Broadcaster":{
+                            "EN_Entity_EDL_ENG_0000006":[
+                                [
+                                    "L0C04958F:3381-3388",
+                                    "L0C04958F:3364-3379",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000147",
@@ -939,10 +923,26 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000130",
+                    "March 2003",
+                    "TME",
+                    "L0C04958F:3286-3295",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000130",
+                    "March 2003",
+                    "TME",
+                    "L0C04958F:3286-3295",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000130",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000006",
                     "https:\/\/twitter.com\/MinSoliSante\/status\/1240239777925881856",
                     "Organization",
-                    "L0C04958F:3364-3379",
+                    "L0C04958F:1951-1966",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
                     ""
                 ]
@@ -978,13 +978,13 @@
             "claim_id":"claim_L0C04958F_2",
             "topic_score":0.4156372845,
             "time_start_earliest":{
-                "day":null,
-                "month":null,
+                "day":"---01",
+                "month":"--01",
                 "time_type":{
                     "name":"AFTER",
                     "value":3
                 },
-                "year":null
+                "year":"2004"
             },
             "time_start_latest":{
                 "day":"---31",
@@ -995,15 +995,6 @@
                 },
                 "year":"2004"
             },
-            "time_end_latest":{
-                "day":null,
-                "month":null,
-                "time_type":{
-                    "name":"BEFORE",
-                    "value":2
-                },
-                "year":null
-            },
             "time_end_earliest":{
                 "day":"---01",
                 "month":"--12",
@@ -1012,6 +1003,15 @@
                     "value":3
                 },
                 "year":"2020"
+            },
+            "time_end_latest":{
+                "day":"---31",
+                "month":"--12",
+                "time_type":{
+                    "name":"BEFORE",
+                    "value":2
+                },
+                "year":"2004"
             }
         },
         {
@@ -1133,60 +1133,6 @@
             "claimer_type_qnode":"Q35120",
             "associated_KEs":[
                 [
-                    "EN_Relation_000014",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000014",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000177":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000012",
-                    "",
-                    "Physical.OrganizationLocationOrigin",
-                    "L0C04958F:4635-4782",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000012",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000014":[
-                                [
-                                    "L0C04958F:4635-4782",
-                                    "L0C04958F:4635-4782",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000001":[
-                                [
-                                    "L0C04958F:4635-4782",
-                                    "L0C04958F:4635-4782",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000017",
                     "",
                     "PartWhole.Subsidiary",
@@ -1214,60 +1160,6 @@
                     }
                 ],
                 [
-                    "EN_Relation_000019",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000019",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000010":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000018",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000018",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000178":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000021",
                     "",
                     "PartWhole.Subsidiary",
@@ -1276,60 +1168,6 @@
                     {
                         "A0":{
                             "EN_Entity_EDL_ENG_0000010":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000178":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000016",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000016",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000020",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000020",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
                                 [
                                     "L0C04958F:4785-4959",
                                     "L0C04958F:4785-4959",
@@ -1376,6 +1214,141 @@
                     }
                 ],
                 [
+                    "EN_Relation_000016",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000016",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000018",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000018",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000178":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000019",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000019",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000010":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000020",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000020",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000178":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000014",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000014",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000177":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
                     "EN_Relation_000013",
                     "",
                     "Physical.OrganizationLocationOrigin",
@@ -1403,12 +1376,31 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000184",
-                    "diseases",
-                    "MHI",
-                    "L0C04958F:5053-5060",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000184",
-                    ""
+                    "EN_Relation_000012",
+                    "",
+                    "Physical.OrganizationLocationOrigin",
+                    "L0C04958F:4635-4782",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000012",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000014":[
+                                [
+                                    "L0C04958F:4635-4782",
+                                    "L0C04958F:4635-4782",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000001":[
+                                [
+                                    "L0C04958F:4635-4782",
+                                    "L0C04958F:4635-4782",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000006",
@@ -1416,6 +1408,14 @@
                     "Organization",
                     "L0C04958F:5012-5014",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000184",
+                    "diseases",
+                    "MHI",
+                    "L0C04958F:5053-5060",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000184",
                     ""
                 ]
             ],
@@ -1587,33 +1587,6 @@
                     }
                 ],
                 [
-                    "EN_Relation_000014",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000014",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000177":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000017",
                     "",
                     "PartWhole.Subsidiary",
@@ -1641,60 +1614,6 @@
                     }
                 ],
                 [
-                    "EN_Relation_000019",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000019",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000010":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000018",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000018",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000178":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000021",
                     "",
                     "PartWhole.Subsidiary",
@@ -1703,60 +1622,6 @@
                     {
                         "A0":{
                             "EN_Entity_EDL_ENG_0000010":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000178":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000016",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000016",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000183":[
-                                [
-                                    "L0C04958F:4785-4959",
-                                    "L0C04958F:4785-4959",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000020",
-                    "",
-                    "PartWhole.Subsidiary",
-                    "L0C04958F:4785-4959",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000020",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000183":[
                                 [
                                     "L0C04958F:4785-4959",
                                     "L0C04958F:4785-4959",
@@ -1803,11 +1668,154 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000012",
-                    "now",
-                    "ORG",
-                    "L0C04958F:5436-5438",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000012",
+                    "EN_Relation_000016",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000016",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000018",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000018",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000178":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000019",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000019",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000010":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000020",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000020",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000178":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000014",
+                    "",
+                    "PartWhole.Subsidiary",
+                    "L0C04958F:4785-4959",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958F\/EN_Relation_000014",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000177":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000183":[
+                                [
+                                    "L0C04958F:4785-4959",
+                                    "L0C04958F:4785-4959",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000185",
+                    "hosts",
+                    "Person",
+                    "L0C04958F:5354-5358",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000185",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000310",
+                    "their",
+                    "PER",
+                    "L0C04958F:5348-5352",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000310",
                     ""
                 ],
                 [
@@ -1819,14 +1827,6 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000185",
-                    "hosts",
-                    "Person",
-                    "L0C04958F:5354-5358",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000185",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur",
                     "Organization",
@@ -1835,11 +1835,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000186",
-                    "diseases",
-                    "MHI",
-                    "L0C04958F:5383-5390",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000186",
+                    "EN_Entity_EDL_ENG_0000012",
+                    "now",
+                    "ORG",
+                    "L0C04958F:5436-5438",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000012",
                     ""
                 ],
                 [
@@ -1859,11 +1859,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000310",
-                    "their",
-                    "PER",
-                    "L0C04958F:5348-5352",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000310",
+                    "EN_Entity_EDL_ENG_0000186",
+                    "diseases",
+                    "MHI",
+                    "L0C04958F:5383-5390",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000186",
                     ""
                 ]
             ],
@@ -3003,19 +3003,19 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000012",
-                    "HIV",
-                    "ORG",
-                    "L0C04958F:9507-9509",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000012",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000196",
                     "scientists",
                     "Person",
                     "L0C04958F:9579-9588",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000196",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000012",
+                    "HIV",
+                    "ORG",
+                    "L0C04958F:9507-9509",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000012",
                     ""
                 ],
                 [
@@ -3217,22 +3217,6 @@
             "claimer_type_qnode":"Q35120",
             "associated_KEs":[
                 [
-                    "EN_Entity_EDL_ENG_0000026",
-                    "Kristian G. Andersen",
-                    "Person",
-                    "L0C04958F:10671-10690",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000026",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000128",
-                    "March 17, 2020",
-                    "TME",
-                    "L0C04958F:10573-10586",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000128",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000027",
                     "Andrew Rambaut",
                     "Person",
@@ -3257,11 +3241,27 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000128",
+                    "March 17, 2020",
+                    "TME",
+                    "L0C04958F:10573-10586",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000128",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000181",
                     "humans",
                     "Person",
                     "L0C04958F:10537-10542",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000181",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000026",
+                    "Kristian G. Andersen",
+                    "Person",
+                    "L0C04958F:10671-10690",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000026",
                     ""
                 ],
                 [
@@ -3275,22 +3275,6 @@
             ],
             "claim_semantics":[
                 [
-                    "EN_Entity_EDL_ENG_0000026",
-                    "Kristian G. Andersen",
-                    "Person",
-                    "L0C04958F:10671-10690",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000026",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000128",
-                    "March 17, 2020",
-                    "TME",
-                    "L0C04958F:10573-10586",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000128",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000027",
                     "Andrew Rambaut",
                     "Person",
@@ -3315,11 +3299,27 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000128",
+                    "March 17, 2020",
+                    "TME",
+                    "L0C04958F:10573-10586",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000128",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000181",
                     "humans",
                     "Person",
                     "L0C04958F:10537-10542",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000181",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000026",
+                    "Kristian G. Andersen",
+                    "Person",
+                    "L0C04958F:10671-10690",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000026",
                     ""
                 ],
                 [
@@ -3499,11 +3499,11 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000200",
-                    "groups",
-                    "Organization",
-                    "L0C04958F:11087-11092",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
+                    "EN_Entity_EDL_ENG_0000029",
+                    "laboratory",
+                    "Facility",
+                    "L0C04958F:11140-11149",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
                     ""
                 ],
                 [
@@ -3531,11 +3531,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000029",
-                    "laboratory",
-                    "Facility",
-                    "L0C04958F:11140-11149",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    "EN_Entity_EDL_ENG_0000200",
+                    "groups",
+                    "Organization",
+                    "L0C04958F:11087-11092",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
                     ""
                 ]
             ],
@@ -3568,27 +3568,27 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000001",
-                    "Wuhan",
-                    "GeopoliticalEntity",
-                    "L0C04958F:11154-11158",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000001",
-                    "Wuhan",
-                    "GeopoliticalEntity",
-                    "L0C04958F:11154-11158",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000029",
                     "laboratory",
                     "Facility",
                     "L0C04958F:11140-11149",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000001",
+                    "Wuhan",
+                    "GeopoliticalEntity",
+                    "L0C04958F:11154-11158",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000001",
+                    "Wuhan",
+                    "GeopoliticalEntity",
+                    "L0C04958F:11154-11158",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
                     ""
                 ]
             ],
@@ -3765,37 +3765,37 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000200",
-                    "groups",
-                    "Organization",
-                    "L0C04958F:11226-11231",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur",
                     "Organization",
                     "L0C04958F:11320-11335",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000200",
+                    "groups",
+                    "Organization",
+                    "L0C04958F:11226-11231",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
                     ""
                 ]
             ],
             "claim_semantics":[
                 [
-                    "EN_Entity_EDL_ENG_0000200",
-                    "groups",
-                    "Organization",
-                    "L0C04958F:11226-11231",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur",
                     "Organization",
                     "L0C04958F:11320-11335",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000200",
+                    "groups",
+                    "Organization",
+                    "L0C04958F:11226-11231",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000200",
                     ""
                 ]
             ],
@@ -3993,19 +3993,19 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000006",
-                    "Institut Pasteur of Shanghai",
-                    "Organization",
-                    "L0C04958F:11606-11633",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    "EN_Entity_EDL_ENG_0000029",
+                    "laboratory",
+                    "Facility",
+                    "L0C04958F:11503-11512",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000006",
-                    "IPS",
-                    "Organization",
-                    "L0C04958F:11636-11638",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
+                    "EN_Entity_EDL_ENG_0000029",
+                    "P4",
+                    "Facility",
+                    "L0C04958F:11500-11501",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
                     ""
                 ],
                 [
@@ -4033,19 +4033,19 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000029",
-                    "laboratory",
-                    "Facility",
-                    "L0C04958F:11503-11512",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    "EN_Entity_EDL_ENG_0000006",
+                    "Institut Pasteur of Shanghai",
+                    "Organization",
+                    "L0C04958F:11606-11633",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000029",
-                    "P4",
-                    "Facility",
-                    "L0C04958F:11500-11501",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    "EN_Entity_EDL_ENG_0000006",
+                    "IPS",
+                    "Organization",
+                    "L0C04958F:11636-11638",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
                     ""
                 ],
                 [
@@ -4086,6 +4086,22 @@
                     }
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000029",
+                    "laboratory",
+                    "Facility",
+                    "L0C04958F:11503-11512",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000029",
+                    "P4",
+                    "Facility",
+                    "L0C04958F:11500-11501",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000001",
                     "Wuhan",
                     "GeopoliticalEntity",
@@ -4115,22 +4131,6 @@
                     "GeopoliticalEntity",
                     "L0C04958F:11521-11524",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000029",
-                    "laboratory",
-                    "Facility",
-                    "L0C04958F:11503-11512",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000029",
-                    "P4",
-                    "Facility",
-                    "L0C04958F:11500-11501",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000029",
                     ""
                 ],
                 [
@@ -4342,14 +4342,6 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:11774-11778",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur",
                     "Organization",
@@ -4371,6 +4363,14 @@
                     "GeopoliticalEntity",
                     "L0C04958F:11719-11723",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000030",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:11774-11778",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
                     ""
                 ]
             ],
@@ -4403,22 +4403,6 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:11774-11778",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:11774-11778",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur",
                     "Organization",
@@ -4432,6 +4416,22 @@
                     "GeopoliticalEntity",
                     "L0C04958F:11719-11723",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000030",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:11774-11778",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:11774-11778",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
                     ""
                 ]
             ],
@@ -4819,6 +4819,14 @@
                     }
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000001",
+                    "Wuhan",
+                    "GeopoliticalEntity",
+                    "L0C04958F:14830-14834",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000006",
                     "Institut Pasteur of Shanghai",
                     "Organization",
@@ -4856,14 +4864,6 @@
                     "Organization",
                     "L0C04958F:15035-15036",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000006",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000001",
-                    "Wuhan",
-                    "GeopoliticalEntity",
-                    "L0C04958F:14830-14834",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000001",
                     ""
                 ],
                 [
@@ -5379,19 +5379,19 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:17248-17252",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000140",
                     "2002",
                     "TME",
                     "L0C04958F:17198-17201",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000140",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:17248-17252",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
                     ""
                 ],
                 [
@@ -5405,27 +5405,27 @@
             ],
             "claim_semantics":[
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:17248-17252",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958F:17248-17252",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000140",
                     "2002",
                     "TME",
                     "L0C04958F:17198-17201",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000140",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:17248-17252",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958F:17248-17252",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958F\/EN_Entity_EDL_ENG_0000002",
                     ""
                 ]
             ],
@@ -5603,33 +5603,6 @@
             "claimer_type_qnode":"Q35120",
             "associated_KEs":[
                 [
-                    "EN_Relation_000092",
-                    "",
-                    "PersonalSocial.Unspecified",
-                    "L0C04D4NL:7324-7444",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000092",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000249":[
-                                [
-                                    "L0C04D4NL:7324-7444",
-                                    "L0C04D4NL:7324-7444",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000269":[
-                                [
-                                    "L0C04D4NL:7324-7444",
-                                    "L0C04D4NL:7324-7444",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000091",
                     "",
                     "OrganizationAffiliation.EmploymentMembership",
@@ -5657,6 +5630,60 @@
                     }
                 ],
                 [
+                    "EN_Relation_000087",
+                    "",
+                    "Physical.LocatedNear",
+                    "L0C04D4NL:7059-7322",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000087",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000263":[
+                                [
+                                    "L0C04D4NL:7059-7322",
+                                    "L0C04D4NL:7059-7322",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000064":[
+                                [
+                                    "L0C04D4NL:7059-7322",
+                                    "L0C04D4NL:7059-7322",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Relation_000092",
+                    "",
+                    "PersonalSocial.Unspecified",
+                    "L0C04D4NL:7324-7444",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000092",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000249":[
+                                [
+                                    "L0C04D4NL:7324-7444",
+                                    "L0C04D4NL:7324-7444",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000269":[
+                                [
+                                    "L0C04D4NL:7324-7444",
+                                    "L0C04D4NL:7324-7444",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
                     "EN_Relation_000089",
                     "",
                     "Physical.LocatedNear",
@@ -5738,31 +5765,28 @@
                     }
                 ],
                 [
-                    "EN_Relation_000087",
-                    "",
-                    "Physical.LocatedNear",
-                    "L0C04D4NL:7059-7322",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000087",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000263":[
-                                [
-                                    "L0C04D4NL:7059-7322",
-                                    "L0C04D4NL:7059-7322",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000064":[
-                                [
-                                    "L0C04D4NL:7059-7322",
-                                    "L0C04D4NL:7059-7322",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
+                    "EN_Entity_EDL_ENG_0000064",
+                    "Mumbai",
+                    "GeopoliticalEntity",
+                    "L0C04D4NL:7062-7067",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000263",
+                    "authorities",
+                    "Person",
+                    "L0C04D4NL:7077-7087",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000263",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000266",
+                    "hotspots",
+                    "Location",
+                    "L0C04D4NL:7243-7250",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000266",
+                    ""
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000265",
@@ -5770,6 +5794,14 @@
                     "Person",
                     "L0C04D4NL:7205-7210",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000265",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000267",
+                    "slums",
+                    "Location",
+                    "L0C04D4NL:7317-7321",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000267",
                     ""
                 ],
                 [
@@ -5786,38 +5818,6 @@
                     "GeopoliticalEntity",
                     "L0C04D4NL:7280-7282",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000065",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000266",
-                    "hotspots",
-                    "Location",
-                    "L0C04D4NL:7243-7250",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000266",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000064",
-                    "Mumbai",
-                    "GeopoliticalEntity",
-                    "L0C04D4NL:7062-7067",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000267",
-                    "slums",
-                    "Location",
-                    "L0C04D4NL:7317-7321",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000267",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000263",
-                    "authorities",
-                    "Person",
-                    "L0C04D4NL:7077-7087",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000263",
                     ""
                 ],
                 [
@@ -5831,6 +5831,33 @@
             ],
             "claim_semantics":[
                 [
+                    "EN_Relation_000087",
+                    "",
+                    "Physical.LocatedNear",
+                    "L0C04D4NL:7059-7322",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000087",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000263":[
+                                [
+                                    "L0C04D4NL:7059-7322",
+                                    "L0C04D4NL:7059-7322",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000064":[
+                                [
+                                    "L0C04D4NL:7059-7322",
+                                    "L0C04D4NL:7059-7322",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
                     "EN_Relation_000089",
                     "",
                     "Physical.LocatedNear",
@@ -5912,31 +5939,36 @@
                     }
                 ],
                 [
-                    "EN_Relation_000087",
-                    "",
-                    "Physical.LocatedNear",
-                    "L0C04D4NL:7059-7322",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04D4NL\/EN_Relation_000087",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000263":[
-                                [
-                                    "L0C04D4NL:7059-7322",
-                                    "L0C04D4NL:7059-7322",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000064":[
-                                [
-                                    "L0C04D4NL:7059-7322",
-                                    "L0C04D4NL:7059-7322",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
+                    "EN_Entity_EDL_ENG_0000064",
+                    "Mumbai",
+                    "GeopoliticalEntity",
+                    "L0C04D4NL:7062-7067",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000064",
+                    "Mumbai",
+                    "GeopoliticalEntity",
+                    "L0C04D4NL:7062-7067",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000263",
+                    "authorities",
+                    "Person",
+                    "L0C04D4NL:7077-7087",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000263",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000266",
+                    "hotspots",
+                    "Location",
+                    "L0C04D4NL:7243-7250",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000266",
+                    ""
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000265",
@@ -5944,6 +5976,14 @@
                     "Person",
                     "L0C04D4NL:7205-7210",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000265",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000267",
+                    "slums",
+                    "Location",
+                    "L0C04D4NL:7317-7321",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000267",
                     ""
                 ],
                 [
@@ -5960,46 +6000,6 @@
                     "GeopoliticalEntity",
                     "L0C04D4NL:7280-7282",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000065",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000266",
-                    "hotspots",
-                    "Location",
-                    "L0C04D4NL:7243-7250",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000266",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000064",
-                    "Mumbai",
-                    "GeopoliticalEntity",
-                    "L0C04D4NL:7062-7067",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000064",
-                    "Mumbai",
-                    "GeopoliticalEntity",
-                    "L0C04D4NL:7062-7067",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000064",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000267",
-                    "slums",
-                    "Location",
-                    "L0C04D4NL:7317-7321",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000267",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000263",
-                    "authorities",
-                    "Person",
-                    "L0C04D4NL:7077-7087",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04D4NL\/EN_Entity_EDL_ENG_0000263",
                     ""
                 ],
                 [
@@ -6158,6 +6158,33 @@
             "claimer_type_qnode":"Q35120",
             "associated_KEs":[
                 [
+                    "EN_Event_000034",
+                    "arriving",
+                    "Movement.TransportArtifact",
+                    "L0C04958D:155-162",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958D\/EN_Event_000034",
+                    {
+                        "Artifact":{
+                            "EN_Entity_EDL_ENG_0000283":[
+                                [
+                                    "L0C04958D:155-162",
+                                    "L0C04958D:144-153",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "Destination":{
+                            "EN_Entity_EDL_ENG_0000284":[
+                                [
+                                    "L0C04958D:155-162",
+                                    "L0C04958D:179-185",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
                     "EN_Event_000035",
                     "infected",
                     "Disaster.DiseaseOutbreak.DiseaseOutbreak",
@@ -6199,60 +6226,6 @@
                     }
                 ],
                 [
-                    "EN_Event_000034",
-                    "arriving",
-                    "Movement.TransportArtifact",
-                    "L0C04958D:155-162",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958D\/EN_Event_000034",
-                    {
-                        "Artifact":{
-                            "EN_Entity_EDL_ENG_0000283":[
-                                [
-                                    "L0C04958D:155-162",
-                                    "L0C04958D:144-153",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "Destination":{
-                            "EN_Entity_EDL_ENG_0000284":[
-                                [
-                                    "L0C04958D:155-162",
-                                    "L0C04958D:179-185",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000099",
-                    "",
-                    "Physical.LocatedNear",
-                    "L0C04958D:237-428",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000099",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000285":[
-                                [
-                                    "L0C04958D:237-428",
-                                    "L0C04958D:237-428",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000001":[
-                                [
-                                    "L0C04958D:237-428",
-                                    "L0C04958D:237-428",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000096",
                     "",
                     "Physical.LocatedNear",
@@ -6280,14 +6253,14 @@
                     }
                 ],
                 [
-                    "EN_Relation_000098",
+                    "EN_Relation_000099",
                     "",
                     "Physical.LocatedNear",
                     "L0C04958D:237-428",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000098",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000099",
                     {
                         "A0":{
-                            "EN_Entity_EDL_ENG_0000001":[
+                            "EN_Entity_EDL_ENG_0000285":[
                                 [
                                     "L0C04958D:237-428",
                                     "L0C04958D:237-428",
@@ -6296,7 +6269,7 @@
                             ]
                         },
                         "A1":{
-                            "EN_Entity_EDL_ENG_0000002":[
+                            "EN_Entity_EDL_ENG_0000001":[
                                 [
                                     "L0C04958D:237-428",
                                     "L0C04958D:237-428",
@@ -6334,44 +6307,31 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000165",
-                    "December 2019",
-                    "TME",
-                    "L0C04958D:327-339",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000165",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "Chinese",
-                    "GeopoliticalEntity",
-                    "L0C04958D:302-308",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000172",
-                    "20",
-                    "VAL",
-                    "L0C04958D:416-417",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000172",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000285",
-                    "people",
-                    "Person",
-                    "L0C04958D:375-380",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000285",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000164",
-                    "previously",
-                    "TME",
-                    "L0C04958D:239-248",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000164",
-                    ""
+                    "EN_Relation_000098",
+                    "",
+                    "Physical.LocatedNear",
+                    "L0C04958D:237-428",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000098",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000001":[
+                                [
+                                    "L0C04958D:237-428",
+                                    "L0C04958D:237-428",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000002":[
+                                [
+                                    "L0C04958D:237-428",
+                                    "L0C04958D:237-428",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000001",
@@ -6390,6 +6350,14 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000172",
+                    "20",
+                    "VAL",
+                    "L0C04958D:416-417",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000172",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000286",
                     "countries",
                     "GeopoliticalEntity",
@@ -6398,11 +6366,35 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000079",
-                    "coronavirus",
-                    "MHI",
-                    "L0C04958D:1696-1706",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000079",
+                    "EN_Entity_EDL_ENG_0000002",
+                    "Chinese",
+                    "GeopoliticalEntity",
+                    "L0C04958D:302-308",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000002",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000164",
+                    "previously",
+                    "TME",
+                    "L0C04958D:239-248",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000164",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000285",
+                    "people",
+                    "Person",
+                    "L0C04958D:375-380",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000285",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000165",
+                    "December 2019",
+                    "TME",
+                    "L0C04958D:327-339",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000165",
                     ""
                 ],
                 [
@@ -6420,9 +6412,44 @@
                     "L0C04958D:179-185",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000284",
                     ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000079",
+                    "coronavirus",
+                    "MHI",
+                    "L0C04958D:1696-1706",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000079",
+                    ""
                 ]
             ],
             "claim_semantics":[
+                [
+                    "EN_Event_000034",
+                    "arriving",
+                    "Movement.TransportArtifact",
+                    "L0C04958D:155-162",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958D\/EN_Event_000034",
+                    {
+                        "Artifact":{
+                            "EN_Entity_EDL_ENG_0000283":[
+                                [
+                                    "L0C04958D:155-162",
+                                    "L0C04958D:144-153",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "Destination":{
+                            "EN_Entity_EDL_ENG_0000284":[
+                                [
+                                    "L0C04958D:155-162",
+                                    "L0C04958D:179-185",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
                 [
                     "EN_Event_000035",
                     "infected",
@@ -6458,33 +6485,6 @@
                                 [
                                     "L0C04958D:5357-5364",
                                     "L0C04958D:5345-5355",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Event_000034",
-                    "arriving",
-                    "Movement.TransportArtifact",
-                    "L0C04958D:155-162",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/events\/L0C04958D\/EN_Event_000034",
-                    {
-                        "Artifact":{
-                            "EN_Entity_EDL_ENG_0000283":[
-                                [
-                                    "L0C04958D:155-162",
-                                    "L0C04958D:144-153",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "Destination":{
-                            "EN_Entity_EDL_ENG_0000284":[
-                                [
-                                    "L0C04958D:155-162",
-                                    "L0C04958D:179-185",
                                     1.0
                                 ]
                             ]
@@ -6562,6 +6562,22 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000283",
+                    "passengers",
+                    "Person",
+                    "L0C04958D:144-153",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000283",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000284",
+                    "station",
+                    "Facility",
+                    "L0C04958D:179-185",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000284",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000001",
                     "Wuhan",
                     "GeopoliticalEntity",
@@ -6583,22 +6599,6 @@
                     "MHI",
                     "L0C04958D:1696-1706",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000079",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000283",
-                    "passengers",
-                    "Person",
-                    "L0C04958D:144-153",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000283",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000284",
-                    "station",
-                    "Facility",
-                    "L0C04958D:179-185",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000284",
                     ""
                 ]
             ],
@@ -6640,22 +6640,22 @@
                 "year":"1983"
             },
             "time_start_latest":{
-                "day":"---30",
-                "month":"--01",
+                "day":"---31",
+                "month":"--12",
                 "time_type":{
                     "name":"BEFORE",
                     "value":2
                 },
-                "year":"2020"
+                "year":"1992"
             },
             "time_end_earliest":{
-                "day":"---30",
+                "day":"---01",
                 "month":"--01",
                 "time_type":{
                     "name":"AFTER",
                     "value":3
                 },
-                "year":"2020"
+                "year":"1983"
             },
             "time_end_latest":{
                 "day":"---31",
@@ -6811,26 +6811,26 @@
                     }
                 ],
                 [
-                    "EN_Relation_000102",
+                    "EN_Relation_000103",
                     "",
-                    "OrganizationAffiliation.EmploymentMembership",
-                    "L0C04958D:890-1144",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000102",
+                    "GeneralAffiliation.APORA",
+                    "L0C04958D:1160-1285",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000103",
                     {
                         "A0":{
-                            "EN_Entity_EDL_ENG_0000290":[
+                            "EN_Entity_EDL_ENG_0000004":[
                                 [
-                                    "L0C04958D:890-1144",
-                                    "L0C04958D:890-1144",
+                                    "L0C04958D:1160-1285",
+                                    "L0C04958D:1160-1285",
                                     1.0
                                 ]
                             ]
                         },
                         "A1":{
-                            "EN_Entity_EDL_ENG_0000081":[
+                            "EN_Entity_EDL_ENG_0000292":[
                                 [
-                                    "L0C04958D:890-1144",
-                                    "L0C04958D:890-1144",
+                                    "L0C04958D:1160-1285",
+                                    "L0C04958D:1160-1285",
                                     1.0
                                 ]
                             ]
@@ -6865,26 +6865,26 @@
                     }
                 ],
                 [
-                    "EN_Relation_000103",
+                    "EN_Relation_000102",
                     "",
-                    "GeneralAffiliation.APORA",
-                    "L0C04958D:1160-1285",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000103",
+                    "OrganizationAffiliation.EmploymentMembership",
+                    "L0C04958D:890-1144",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000102",
                     {
                         "A0":{
-                            "EN_Entity_EDL_ENG_0000004":[
+                            "EN_Entity_EDL_ENG_0000290":[
                                 [
-                                    "L0C04958D:1160-1285",
-                                    "L0C04958D:1160-1285",
+                                    "L0C04958D:890-1144",
+                                    "L0C04958D:890-1144",
                                     1.0
                                 ]
                             ]
                         },
                         "A1":{
-                            "EN_Entity_EDL_ENG_0000292":[
+                            "EN_Entity_EDL_ENG_0000081":[
                                 [
-                                    "L0C04958D:1160-1285",
-                                    "L0C04958D:1160-1285",
+                                    "L0C04958D:890-1144",
+                                    "L0C04958D:890-1144",
                                     1.0
                                 ]
                             ]
@@ -6892,27 +6892,19 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000290",
-                    "leadership",
-                    "Person",
-                    "L0C04958D:1029-1038",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000290",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000081",
-                    "Soviet",
+                    "EN_Entity_EDL_ENG_0000000",
+                    "Indian",
                     "GeopoliticalEntity",
-                    "L0C04958D:1022-1027",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000081",
+                    "L0C04958D:967-972",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000289",
-                    "newspaper",
-                    "Organization",
-                    "L0C04958D:974-982",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000289",
+                    "EN_Entity_EDL_ENG_0000000",
+                    "India",
+                    "GeopoliticalEntity",
+                    "L0C04958D:1108-1112",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
                     ""
                 ],
                 [
@@ -6940,19 +6932,27 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000000",
-                    "Indian",
-                    "GeopoliticalEntity",
-                    "L0C04958D:967-972",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
+                    "EN_Entity_EDL_ENG_0000289",
+                    "newspaper",
+                    "Organization",
+                    "L0C04958D:974-982",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000289",
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000000",
-                    "India",
+                    "EN_Entity_EDL_ENG_0000290",
+                    "leadership",
+                    "Person",
+                    "L0C04958D:1029-1038",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000290",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000081",
+                    "Soviet",
                     "GeopoliticalEntity",
-                    "L0C04958D:1108-1112",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
+                    "L0C04958D:1022-1027",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000081",
                     ""
                 ],
                 [
@@ -6991,33 +6991,6 @@
                     }
                 ],
                 [
-                    "EN_Relation_000102",
-                    "",
-                    "OrganizationAffiliation.EmploymentMembership",
-                    "L0C04958D:890-1144",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000102",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000290":[
-                                [
-                                    "L0C04958D:890-1144",
-                                    "L0C04958D:890-1144",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000081":[
-                                [
-                                    "L0C04958D:890-1144",
-                                    "L0C04958D:890-1144",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000101",
                     "",
                     "Physical.OrganizationLocationOrigin",
@@ -7045,6 +7018,57 @@
                     }
                 ],
                 [
+                    "EN_Relation_000102",
+                    "",
+                    "OrganizationAffiliation.EmploymentMembership",
+                    "L0C04958D:890-1144",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000102",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000290":[
+                                [
+                                    "L0C04958D:890-1144",
+                                    "L0C04958D:890-1144",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000081":[
+                                [
+                                    "L0C04958D:890-1144",
+                                    "L0C04958D:890-1144",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000000",
+                    "Indian",
+                    "GeopoliticalEntity",
+                    "L0C04958D:967-972",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000166",
+                    "1983",
+                    "TME",
+                    "L0C04958D:942-945",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000166",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000289",
+                    "newspaper",
+                    "Organization",
+                    "L0C04958D:974-982",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000289",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000290",
                     "leadership",
                     "Person",
@@ -7058,30 +7082,6 @@
                     "GeopoliticalEntity",
                     "L0C04958D:1022-1027",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000081",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000289",
-                    "newspaper",
-                    "Organization",
-                    "L0C04958D:974-982",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000289",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000166",
-                    "1983",
-                    "TME",
-                    "L0C04958D:942-945",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000166",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000000",
-                    "Indian",
-                    "GeopoliticalEntity",
-                    "L0C04958D:967-972",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000000",
                     ""
                 ]
             ],
@@ -7288,6 +7288,14 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000295",
+                    "outlets",
+                    "PER",
+                    "L0C04958D:3424-3430",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000295",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000078",
                     "Pro-Kremlin",
                     "GeopoliticalEntity",
@@ -7301,14 +7309,6 @@
                     "GeopoliticalEntity",
                     "L0C04958D:3444-3456",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000295",
-                    "outlets",
-                    "PER",
-                    "L0C04958D:3424-3430",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000295",
                     ""
                 ]
             ],
@@ -7538,6 +7538,33 @@
                     }
                 ],
                 [
+                    "EN_Relation_000115",
+                    "",
+                    "GeneralAffiliation.APORA",
+                    "L0C04958D:4618-4826",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000115",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000004":[
+                                [
+                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4618-4826",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000305":[
+                                [
+                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4618-4826",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
                     "EN_Relation_000113",
                     "",
                     "OrganizationAffiliation.EmploymentMembership",
@@ -7555,33 +7582,6 @@
                         },
                         "A1":{
                             "EN_Entity_EDL_ENG_0000303":[
-                                [
-                                    "L0C04958D:4429-4616",
-                                    "L0C04958D:4429-4616",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
-                    "EN_Relation_000112",
-                    "",
-                    "GeneralAffiliation.MORE",
-                    "L0C04958D:4429-4616",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000112",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000100":[
-                                [
-                                    "L0C04958D:4429-4616",
-                                    "L0C04958D:4429-4616",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000101":[
                                 [
                                     "L0C04958D:4429-4616",
                                     "L0C04958D:4429-4616",
@@ -7619,31 +7619,47 @@
                     }
                 ],
                 [
-                    "EN_Relation_000115",
+                    "EN_Relation_000112",
                     "",
-                    "GeneralAffiliation.APORA",
-                    "L0C04958D:4618-4826",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000115",
+                    "GeneralAffiliation.MORE",
+                    "L0C04958D:4429-4616",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000112",
                     {
                         "A0":{
-                            "EN_Entity_EDL_ENG_0000004":[
+                            "EN_Entity_EDL_ENG_0000100":[
                                 [
-                                    "L0C04958D:4618-4826",
-                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4429-4616",
+                                    "L0C04958D:4429-4616",
                                     1.0
                                 ]
                             ]
                         },
                         "A1":{
-                            "EN_Entity_EDL_ENG_0000305":[
+                            "EN_Entity_EDL_ENG_0000101":[
                                 [
-                                    "L0C04958D:4618-4826",
-                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4429-4616",
+                                    "L0C04958D:4429-4616",
                                     1.0
                                 ]
                             ]
                         }
                     }
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000305",
+                    "weapons",
+                    "Weapon",
+                    "L0C04958D:4805-4811",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000305",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000304",
+                    "companies",
+                    "Organization",
+                    "L0C04958D:4697-4705",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000304",
+                    ""
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000002",
@@ -7662,43 +7678,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000304",
-                    "companies",
-                    "Organization",
-                    "L0C04958D:4697-4705",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000304",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000173",
                     "one",
                     "VAL",
                     "L0C04958D:4621-4623",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000173",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000004",
-                    "U.S.",
-                    "GeopoliticalEntity",
-                    "L0C04958D:4677-4680",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000004",
-                    "U.S.",
-                    "GeopoliticalEntity",
-                    "L0C04958D:4770-4773",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000305",
-                    "weapons",
-                    "Weapon",
-                    "L0C04958D:4805-4811",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000305",
                     ""
                 ],
                 [
@@ -7715,6 +7699,22 @@
                     "Person",
                     "L0C04958D:4758-4759",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000100",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000004",
+                    "U.S.",
+                    "GeopoliticalEntity",
+                    "L0C04958D:4677-4680",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000004",
+                    "U.S.",
+                    "GeopoliticalEntity",
+                    "L0C04958D:4770-4773",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
                     ""
                 ]
             ],
@@ -7774,33 +7774,6 @@
                     }
                 ],
                 [
-                    "EN_Relation_000114",
-                    "",
-                    "Physical.OrganizationLocationOrigin",
-                    "L0C04958D:4618-4826",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000114",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000304":[
-                                [
-                                    "L0C04958D:4618-4826",
-                                    "L0C04958D:4618-4826",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000004":[
-                                [
-                                    "L0C04958D:4618-4826",
-                                    "L0C04958D:4618-4826",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000115",
                     "",
                     "GeneralAffiliation.APORA",
@@ -7828,6 +7801,49 @@
                     }
                 ],
                 [
+                    "EN_Relation_000114",
+                    "",
+                    "Physical.OrganizationLocationOrigin",
+                    "L0C04958D:4618-4826",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000114",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000304":[
+                                [
+                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4618-4826",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000004":[
+                                [
+                                    "L0C04958D:4618-4826",
+                                    "L0C04958D:4618-4826",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000305",
+                    "weapons",
+                    "Weapon",
+                    "L0C04958D:4805-4811",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000305",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000304",
+                    "companies",
+                    "Organization",
+                    "L0C04958D:4697-4705",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000304",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000002",
                     "China",
                     "GeopoliticalEntity",
@@ -7852,11 +7868,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000304",
-                    "companies",
-                    "Organization",
-                    "L0C04958D:4697-4705",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000304",
+                    "EN_Entity_EDL_ENG_0000100",
+                    "he",
+                    "Person",
+                    "L0C04958D:4758-4759",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000100",
                     ""
                 ],
                 [
@@ -7873,22 +7889,6 @@
                     "GeopoliticalEntity",
                     "L0C04958D:4770-4773",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000004",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000305",
-                    "weapons",
-                    "Weapon",
-                    "L0C04958D:4805-4811",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000305",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000100",
-                    "he",
-                    "Person",
-                    "L0C04958D:4758-4759",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000100",
                     ""
                 ]
             ],
@@ -8140,22 +8140,6 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000002",
-                    "China",
-                    "GeopoliticalEntity",
-                    "L0C04958D:5393-5397",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000002",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000306",
-                    "narrators",
-                    "Person",
-                    "L0C04958D:5323-5331",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000306",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000101",
                     "Russian",
                     "GeopoliticalEntity",
@@ -8164,11 +8148,27 @@
                     ""
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000002",
+                    "China",
+                    "GeopoliticalEntity",
+                    "L0C04958D:5393-5397",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000002",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000077",
                     "Central Intelligence Agency",
                     "Organization",
                     "L0C04958D:5411-5437",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000079",
+                    "coronavirus",
+                    "MHI",
+                    "L0C04958D:5345-5355",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000079",
                     ""
                 ],
                 [
@@ -8188,11 +8188,11 @@
                     ""
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000079",
-                    "coronavirus",
-                    "MHI",
-                    "L0C04958D:5345-5355",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000079",
+                    "EN_Entity_EDL_ENG_0000306",
+                    "narrators",
+                    "Person",
+                    "L0C04958D:5323-5331",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000306",
                     ""
                 ],
                 [
@@ -8507,33 +8507,6 @@
             "claimer_type_qnode":"Q35120",
             "associated_KEs":[
                 [
-                    "EN_Relation_000118",
-                    "",
-                    "GeneralAffiliation.APORA",
-                    "L0C04958D:5595-5715",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000118",
-                    {
-                        "A0":{
-                            "EN_Entity_EDL_ENG_0000004":[
-                                [
-                                    "L0C04958D:5595-5715",
-                                    "L0C04958D:5595-5715",
-                                    1.0
-                                ]
-                            ]
-                        },
-                        "A1":{
-                            "EN_Entity_EDL_ENG_0000288":[
-                                [
-                                    "L0C04958D:5595-5715",
-                                    "L0C04958D:5595-5715",
-                                    1.0
-                                ]
-                            ]
-                        }
-                    }
-                ],
-                [
                     "EN_Relation_000119",
                     "",
                     "Physical.OrganizationLocationOrigin",
@@ -8561,12 +8534,31 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000288",
-                    "bioweapon",
-                    "Weapon",
-                    "L0C04958D:5685-5693",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000288",
-                    ""
+                    "EN_Relation_000118",
+                    "",
+                    "GeneralAffiliation.APORA",
+                    "L0C04958D:5595-5715",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/relations\/L0C04958D\/EN_Relation_000118",
+                    {
+                        "A0":{
+                            "EN_Entity_EDL_ENG_0000004":[
+                                [
+                                    "L0C04958D:5595-5715",
+                                    "L0C04958D:5595-5715",
+                                    1.0
+                                ]
+                            ]
+                        },
+                        "A1":{
+                            "EN_Entity_EDL_ENG_0000288":[
+                                [
+                                    "L0C04958D:5595-5715",
+                                    "L0C04958D:5595-5715",
+                                    1.0
+                                ]
+                            ]
+                        }
+                    }
                 ],
                 [
                     "EN_Entity_EDL_ENG_0000077",
@@ -8574,6 +8566,14 @@
                     "Organization",
                     "L0C04958D:5638-5640",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000288",
+                    "bioweapon",
+                    "Weapon",
+                    "L0C04958D:5685-5693",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000288",
                     ""
                 ],
                 [
@@ -8614,27 +8614,27 @@
                     }
                 ],
                 [
+                    "EN_Entity_EDL_ENG_0000077",
+                    "CIA",
+                    "Organization",
+                    "L0C04958D:5638-5640",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000077",
+                    "CIA",
+                    "Organization",
+                    "L0C04958D:5638-5640",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
+                    ""
+                ],
+                [
                     "EN_Entity_EDL_ENG_0000288",
                     "bioweapon",
                     "Weapon",
                     "L0C04958D:5685-5693",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000288",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000077",
-                    "CIA",
-                    "Organization",
-                    "L0C04958D:5638-5640",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
-                    ""
-                ],
-                [
-                    "EN_Entity_EDL_ENG_0000077",
-                    "CIA",
-                    "Organization",
-                    "L0C04958D:5638-5640",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000077",
                     ""
                 ],
                 [
@@ -8823,19 +8823,19 @@
                     }
                 ],
                 [
-                    "EN_Entity_EDL_ENG_0000101",
-                    "Russian",
-                    "GeopoliticalEntity",
-                    "L0C04958D:6039-6045",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000101",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000089",
                     "VK",
                     "Organization",
                     "L0C04958D:6062-6063",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000089",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000101",
+                    "Russian",
+                    "GeopoliticalEntity",
+                    "L0C04958D:6039-6045",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000101",
                     ""
                 ],
                 [
@@ -8857,19 +8857,19 @@
             ],
             "claim_semantics":[
                 [
-                    "EN_Entity_EDL_ENG_0000101",
-                    "Russian",
-                    "GeopoliticalEntity",
-                    "L0C04958D:6039-6045",
-                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000101",
-                    ""
-                ],
-                [
                     "EN_Entity_EDL_ENG_0000089",
                     "VK",
                     "Organization",
                     "L0C04958D:6062-6063",
                     "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000089",
+                    ""
+                ],
+                [
+                    "EN_Entity_EDL_ENG_0000101",
+                    "Russian",
+                    "GeopoliticalEntity",
+                    "L0C04958D:6039-6045",
+                    "http:\/\/www.isi.edu\/gaia\/clusters\/uiuc\/entity\/L0C04958D\/EN_Entity_EDL_ENG_0000101",
                     ""
                 ],
                 [
